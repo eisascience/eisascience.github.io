@@ -24,7 +24,7 @@ For my Ph.D. thesis [(robust and reproducible classification of rare cellular su
 #### Contribution: 
 Performed experiments, analyzed flow cytometric data, performed statistical tests, and developed reports and presentation martials. 
 
-2013 - 2018      __Doctoral Student__, OHSU, DMICE-BCB.
+2013 - 2018      __Doctoral Student__, DMICE-BCB, OHSU.
 #### Research Involvement: 
 * Genome-based Bioinformatics, Assessment of bioinformatics pipelines identifying genomic structural variants across several sequenced Gibbons. Lucia Carbone Ph.D.
 * Computational phenotyping in cancer cell lines, CyTOF-based computational analysis of phenotypic heterogeneity in breast cancer-derived cell in the context of combinatory anti-cancer drug treatments to identify sensitive phenotypic subtypes within several breast cancer cell lines. Paul T. Spellman Ph.D.
