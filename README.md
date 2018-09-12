@@ -11,10 +11,10 @@ __M.S.__ - Biochemistry and Molecular Biology. Oregon Health and Science Univers
 __Ph.D.__ - Bioinformatics and Computational Biology, OHSU, Department of Medical Informatics and Clinical Epidemiology (DMICE), Division of Bioinformatics and Computational Biology (BCB), Portland, OR. “Robust and reproducible classification of rare cellular subsets/signatures (RCS) in single-cell technologies within a transfer learning framework.” (doi:10.6083/NX9EZJ) Committee members: Shannon K. McWeeney Ph.D., David M. Lewinsohn MD./Ph.D., Michael Mooney Ph.D., Christina Zheng Ph.D., and Evan Lind Ph.D. (2013 – 2018).
 
 ## Professional Experience
-+ 2008 - 2012      Sr. Research Associate, Louis Picker M.D., Vaccine & Gene Therapy Institute (VGTI), OHSU.
+2008 - 2012      Sr. Research Associate, Louis Picker M.D., Vaccine & Gene Therapy Institute (VGTI), OHSU.
 
 Contribution: Performed experiments, analyzed flow cytometric data, performed statistical tests, and developed reports and presentation martials. 
-+ 2013 - 2018      Pre-doctoral Student, OHSU, DMICE-BCB.
+2013 - 2018      Pre-doctoral Student, OHSU, DMICE-BCB.
 
 Research Involvement: 
 * Genome-based Bioinformatics, Assessment of bioinformatics pipelines identifying genomic structural variants across several sequenced Gibbons. Lucia Carbone Ph.D.
