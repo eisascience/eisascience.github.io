@@ -4,7 +4,6 @@
 [Google Scholar Citations](https://scholar.google.com/citations?user=vp6qss8AAAAJ&hl=en), [Research Gate](https://www.researchgate.net/profile/Eisa_Mahyari), [Github](https://eisascience.github.io/), [Twitter](https://twitter.com/eisamahyari)
 
 ## Education
-Education:
 B.S. - Biology and Chemistry double major. Portland State University (PSU), Portland, OR. (2002 – 2006)
 
 M.S. - Biochemistry and Molecular Biology. Oregon Health and Science University (OHSU), Div. Environmental and Biomolecular Systems, Portland, OR. “A six-compartment Physiologically Based Pharmacokinetic (PBPK) Markov-chain Monte Carlo Model to simulate and quantify nicotine metabolism in human populations.” (2006 – 2008).
