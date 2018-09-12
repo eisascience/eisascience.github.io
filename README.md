@@ -37,9 +37,11 @@ Spring 2017	Class TA & Mentored teaching, "Public and social-media engagement an
 “TCR Enrichment Analysis (TEA)” Visualization interface to evaluate differential enrichment of tissue-specific TCR clonotype. 
 
 ## Awards and Honors
-2013 – 2014     Knight Cancer Institute, pre-doctoral funding, OHSU. \\
-2013 – 2014     Molecular Microbiology and Immunology, pre-doctoral funding, Paul Spellman Ph.D., OHSU.\\
-2014 – 2016     Pulmonary/Critical Care Medicine. NIH T32 Grant, David Lewinsohn M.D./Ph.D., OHSU (5T32HL083808-06/07). \\
+2013 – 2014     Knight Cancer Institute, pre-doctoral funding, OHSU.
+
+2013 – 2014     Molecular Microbiology and Immunology, pre-doctoral funding, Paul Spellman Ph.D., OHSU.
+
+2014 – 2016     Pulmonary/Critical Care Medicine. NIH T32 Grant, David Lewinsohn M.D./Ph.D., OHSU (5T32HL083808-06/07).
 
 
 
