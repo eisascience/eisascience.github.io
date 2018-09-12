@@ -10,6 +10,16 @@ __M.S.__ - Biochemistry and Molecular Biology. Oregon Health and Science Univers
 
 __Ph.D.__ - Bioinformatics and Computational Biology, OHSU, Department of Medical Informatics and Clinical Epidemiology (DMICE), Division of Bioinformatics and Computational Biology (BCB), Portland, OR. “Robust and reproducible classification of rare cellular subsets/signatures (RCS) in single-cell technologies within a transfer learning framework.” (doi:10.6083/NX9EZJ) Committee members: Shannon K. McWeeney Ph.D., David M. Lewinsohn MD./Ph.D., Michael Mooney Ph.D., Christina Zheng Ph.D., and Evan Lind Ph.D. (2013 – 2018).
 
+## Professional Experience
++ 2008 - 2012      Sr. Research Associate, Louis Picker M.D., Vaccine & Gene Therapy Institute (VGTI), OHSU.
+... Contribution: Performed experiments, analyzed flow cytometric data, performed statistical tests, and developed reports and presentation martials. 
++ 2013 - 2018      Pre-doctoral Student, OHSU, DMICE-BCB.
+... Research Involvement: 
+...* Genome-based Bioinformatics, Assessment of bioinformatics pipelines identifying genomic structural variants across several sequenced Gibbons. Lucia Carbone Ph.D.
+...* Computational phenotyping in cancer cell lines, CyTOF-based computational analysis of phenotypic heterogeneity in breast cancer-derived cell in the context of combinatory anti-cancer drug treatments to identify sensitive phenotypic subtypes within several breast cancer cell lines. Paul T. Spellman Ph.D.
+...* Computational immunophenotyping, CyTOF-based computational immunophenotypic analysis of a unique population of tuberculosis (TB)-recognizing T-cells known as mucosal associated invariant T (MAIT) cells. David M. Lewinsohn M.D./Ph.D.
+
+
 ## About Me
 I am computational biologist focused and interested on solving problems related to immunology in the context of infectious disease and oncology. I have recieved my Ph.D. in [Bioinformatics and Computational Biology (BCB)](https://www.ohsu.edu/xd/education/schools/school-of-medicine/departments/clinical-departments/dmice/educational-programs/dmice-programs/computational-biology.cfm) from [Oregon Health and Science Unitversity (OHSU)](https://www.ohsu.edu/) in June 2018. I am profoundly fascinated by the immune system and the mechanisms of immunity to develop treatments and prophylactics, specifically within a precision-medicine framework.
 
