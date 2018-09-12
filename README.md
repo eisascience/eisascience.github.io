@@ -1,7 +1,7 @@
 # Eisa Mahyari, Ph.D.
 
 ## Contact 
-[Google Scholar Citations](https://scholar.google.com/citations?user=vp6qss8AAAAJ&hl=en), [Research Gate](https://www.researchgate.net/profile/Eisa_Mahyari), [Github](https://eisascience.github.io/), [Twitter](https://twitter.com/eisamahyari), [email](eisamahyari@gmail.com)
+[Google Scholar Citations](https://scholar.google.com/citations?user=vp6qss8AAAAJ&hl=en), [Research Gate](https://www.researchgate.net/profile/Eisa_Mahyari), [Github](https://eisascience.github.io/), [Twitter](https://twitter.com/eisamahyari), [email](mailto:eisamahyari@gmail.com)
 
 ## Education
 B.S. - Biology and Chemistry double major. Portland State University (PSU), Portland, OR. (2002 – 2006)
