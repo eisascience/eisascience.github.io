@@ -1,9 +1,17 @@
 # Eisa Mahyari, Ph.D.
 
-## ABOUT ME
-
+## Contact 
 [Google Scholar Citations](https://scholar.google.com/citations?user=vp6qss8AAAAJ&hl=en), [Research Gate](https://www.researchgate.net/profile/Eisa_Mahyari), [Github](https://eisascience.github.io/), [Twitter](https://twitter.com/eisamahyari)
 
+## Education
+Education:
+B.S. - Biology and Chemistry double major. Portland State University (PSU), Portland, OR. (2002 – 2006)
+
+M.S. - Biochemistry and Molecular Biology. Oregon Health and Science University (OHSU), Div. Environmental and Biomolecular Systems, Portland, OR. “A six-compartment Physiologically Based Pharmacokinetic (PBPK) Markov-chain Monte Carlo Model to simulate and quantify nicotine metabolism in human populations.” (2006 – 2008).
+
+Ph.D. - Bioinformatics and Computational Biology, OHSU, Department of Medical Informatics and Clinical Epidemiology (DMICE), Division of Bioinformatics and Computational Biology (BCB), Portland, OR. “Robust and reproducible classification of rare cellular subsets/signatures (RCS) in single-cell technologies within a transfer learning framework.” (doi:10.6083/NX9EZJ) Committee members: Shannon K. McWeeney Ph.D., David M. Lewinsohn MD./Ph.D., Michael Mooney Ph.D., Christina Zheng Ph.D., and Evan Lind Ph.D. (2013 – 2018).
+
+## ABOUT ME
 I am computational biologist focused and interested on solving problems related to immunology in the context of infectious disease and oncology. I have recieved my Ph.D. in [Bioinformatics and Computational Biology (BCB)](https://www.ohsu.edu/xd/education/schools/school-of-medicine/departments/clinical-departments/dmice/educational-programs/dmice-programs/computational-biology.cfm) from [Oregon Health and Science Unitversity (OHSU)](https://www.ohsu.edu/) in June 2018. I am profoundly fascinated by the immune system and the mechanisms of immunity to develop treatments and prophylactics, specifically within a precision-medicine framework.
 
 My prior training was in Biology and Chemistry (BS 2006) and Biochemistry and Molecular Biology (MS 2008). From 2008 to 2012 I was a group member in Dr. Louis Picker's Lab, where I focused on immunological studies relating to HIV Vaccines. Our work culminated in a critical examination of vaccine-mediated correlates of protection in Rhesus Macaques [(Nature Medicine 2012)](https://www.ncbi.nlm.nih.gov/pubmed/22961108). This experience seeded the interest and desire to contribute to multi-disciplinary translational biomedical research which propelled me to apply and be accepted as a PhD student in the Division of BCB, in the Department of Medical Informatics and Clinical Epidemiology (DMICE).
