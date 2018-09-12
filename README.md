@@ -20,11 +20,11 @@ As a PhD candidate, I worked under the guidance and mentorship of Drs. David M. 
 For my Ph.D. thesis [(robust and reproducible classification of rare cellular subsets/signatures (RCS) in single-cell technologies within a transfer learning framework)](https://doi.org/10.6083/nx9ezj), I focused on strategies for computational immune phenotyping using single-cell technologies (i.e., flow cytometry, CyTOF, and RNA-Seq). Specifically, I developed a machine learning framework [(the RTL framework, available on Github)](https://github.com/eisascience/RTL) to classify rare cellular subsets in single-cell data because classification of rare events from high-dimensional data is a difficult and highly variable task for humans and machines. Such robust and reproducible methods are a major pillar for accurate predictions of treatment/prophylactic effectiveness and prognostics within a precision-medicine framework. For the near future, I am interesting in continuing to develop robust computational methods to integrate and processes biomedical data as well as addressing clinical hypotheses. Long term, I am interested integrating the mechanisms of immunity and related data to better stratify patients and predicting adverse/positive outcomes.
 
 ## Professional Experience
-2008 - 2012      Sr. Research Associate, Louis Picker M.D., Vaccine & Gene Therapy Institute (VGTI), OHSU.
+2008 - 2012      __Sr. Research Associate__, Louis Picker M.D., Vaccine & Gene Therapy Institute (VGTI), OHSU.
 #### Contribution: 
 Performed experiments, analyzed flow cytometric data, performed statistical tests, and developed reports and presentation martials. 
 
-2013 - 2018      Pre-doctoral Student, OHSU, DMICE-BCB.
+2013 - 2018      __Doctoral Student__, OHSU, DMICE-BCB.
 #### Research Involvement: 
 * Genome-based Bioinformatics, Assessment of bioinformatics pipelines identifying genomic structural variants across several sequenced Gibbons. Lucia Carbone Ph.D.
 * Computational phenotyping in cancer cell lines, CyTOF-based computational analysis of phenotypic heterogeneity in breast cancer-derived cell in the context of combinatory anti-cancer drug treatments to identify sensitive phenotypic subtypes within several breast cancer cell lines. Paul T. Spellman Ph.D.
