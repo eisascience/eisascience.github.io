@@ -23,10 +23,10 @@ For my Ph.D. thesis [(robust and reproducible classification of rare cellular su
 Yoshinori Fukazawa, Haesun Park, Mark J. Cameron, Francois Lefebvre, Richard Lum, Noel Coombes, __Eisa Mahyari__, Shoko I. Hagen, Jin Young Bae, Marcelo Delos Reyes, Tonya Swanson, Alfred W. Legasse, Andrew Sylwester, Scott G. Hansen, Andrew T. Smith, Petra Stafova, Rebecca Shoemaker, Yuan Li, Kelli Oswald, Michael K. Axthelm, Adrian McDermott, Guido Ferrari, David C. Montefiori, Paul T. Edlefsen, Michael Piatak, Jeffrey D. Lifson, Rafick P. Sékaly, and Louis J. Picker.   “Lymph node T cell responses predict the efficacy of live attenuated SIV vaccines.” Nature Medicine, 18(11):1673–1681, 2012. 
 
 ## Oral & Poster Presentations
-Winter 2014   “Latent Dirichlet Allocation and Application in Biology”, Bioinformatics Discussion for Students and Postdocs (BioDSP), OHSU.
-Spring 2015   “A Reinforcement Learning Model for Solving the Protein Folding Problem”, BioDSP, OHSU
-Spring 2015   “Identification of novel MAIT subtypes with non-linear dimensionality reduction”, Research Week poster, OHSU.
-Spring 2018   “Robust and reproducible classification of rare cellular subsets/signatures (RCS) in single-cell technologies within a transfer learning framework”, Research Week talk, OHSU.
++ Winter 2014   “Latent Dirichlet Allocation and Application in Biology”, Bioinformatics Discussion for Students and Postdocs (BioDSP), OHSU.
++ Spring 2015   “A Reinforcement Learning Model for Solving the Protein Folding Problem”, BioDSP, OHSU
++ Spring 2015   “Identification of novel MAIT subtypes with non-linear dimensionality reduction”, Research Week poster, OHSU.
++ Spring 2018   “Robust and reproducible classification of rare cellular subsets/signatures (RCS) in single-cell technologies within a transfer learning framework”, Research Week talk, OHSU.
 
 ## Teaching Experience
 Spring 2015	Class TA for Statistical methods with course professor: Shannon K. McWeeney Ph.D.
