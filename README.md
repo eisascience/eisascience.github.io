@@ -13,7 +13,7 @@ __Ph.D.__ - Bioinformatics and Computational Biology, OHSU, Department of Medica
 ## Professional Experience
 + 2008 - 2012      Sr. Research Associate, Louis Picker M.D., Vaccine & Gene Therapy Institute (VGTI), OHSU.
 
-... Contribution: Performed experiments, analyzed flow cytometric data, performed statistical tests, and developed reports and presentation martials. 
+...Contribution: Performed experiments, analyzed flow cytometric data, performed statistical tests, and developed reports and presentation martials. 
 + 2013 - 2018      Pre-doctoral Student, OHSU, DMICE-BCB.
 
 ... Research Involvement: 
