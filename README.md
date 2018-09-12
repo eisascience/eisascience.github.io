@@ -20,8 +20,26 @@ As a PhD candidate, I worked under the guidance and mentorship of Drs. David M. 
 For my Ph.D. thesis [(robust and reproducible classification of rare cellular subsets/signatures (RCS) in single-cell technologies within a transfer learning framework)](https://doi.org/10.6083/nx9ezj), I focused on strategies for computational immune phenotyping using single-cell technologies (i.e., flow cytometry, CyTOF, and RNA-Seq). Specifically, I developed a machine learning framework [(the RTL framework, available on Github)](https://github.com/eisascience/RTL) to classify rare cellular subsets in single-cell data because classification of rare events from high-dimensional data is a difficult and highly variable task for humans and machines. Such robust and reproducible methods are a major pillar for accurate predictions of treatment/prophylactic effectiveness and prognostics within a precision-medicine framework. For the near future, I am interesting in continuing to develop robust computational methods to integrate and processes biomedical data as well as addressing clinical hypotheses. Long term, I am interested integrating the mechanisms of immunity and related data to better stratify patients and predicting adverse/positive outcomes.
 
 ## Publications: (h-index = 1, citations = 133)
-Yoshinori Fukazawa, Haesun Park, Mark J. Cameron, Francois Lefebvre, Richard Lum, Noel Coombes, Eisa Mahyari, Shoko I. Hagen, Jin Young Bae, Marcelo Delos Reyes, Tonya Swanson, Alfred W. Legasse, Andrew Sylwester, Scott G. Hansen, Andrew T. Smith, Petra Stafova, Rebecca Shoemaker, Yuan Li, Kelli Oswald, Michael K. Axthelm, Adrian McDermott, Guido Ferrari, David C. Montefiori, Paul T. Edlefsen, Michael Piatak, Jeffrey D. Lifson, Rafick P. Sékaly, and Louis J. Picker.   “Lymph node T cell responses predict the efficacy of live attenuated SIV vaccines.” Nature Medicine, 18(11):1673–1681, 2012. 
+Yoshinori Fukazawa, Haesun Park, Mark J. Cameron, Francois Lefebvre, Richard Lum, Noel Coombes, __Eisa Mahyari__, Shoko I. Hagen, Jin Young Bae, Marcelo Delos Reyes, Tonya Swanson, Alfred W. Legasse, Andrew Sylwester, Scott G. Hansen, Andrew T. Smith, Petra Stafova, Rebecca Shoemaker, Yuan Li, Kelli Oswald, Michael K. Axthelm, Adrian McDermott, Guido Ferrari, David C. Montefiori, Paul T. Edlefsen, Michael Piatak, Jeffrey D. Lifson, Rafick P. Sékaly, and Louis J. Picker.   “Lymph node T cell responses predict the efficacy of live attenuated SIV vaccines.” Nature Medicine, 18(11):1673–1681, 2012. 
 
-__ssss__
+## Oral & Poster Presentations:
+Winter 2014   “Latent Dirichlet Allocation and Application in Biology”, Bioinformatics Discussion for Students and Postdocs (BioDSP), OHSU.
+Spring 2015   “A Reinforcement Learning Model for Solving the Protein Folding Problem”, BioDSP, OHSU
+Spring 2015   “Identification of novel MAIT subtypes with non-linear dimensionality reduction”, Research Week poster, OHSU.
+Spring 2018   “Robust and reproducible classification of rare cellular subsets/signatures (RCS) in single-cell technologies within a transfer learning framework”, Research Week talk, OHSU.
+
+## Teaching Experience: 
+Spring 2015	Class TA for Statistical methods with course professor: Shannon K. McWeeney Ph.D.
+Spring 2016	Class TA and Mentored teaching, "Markov Models, Hidden Markov Models, and Markov Chain Mote Carlo Modeling" for Statistical methods with course professor: Shannon K. McWeeney Ph.D.
+Spring 2017	Class TA & Mentored teaching, "Public and social-media engagement and the developing ‘avatar’ of an academic professional" for Research in Bioinformatics and Computational Biology with course professor: Eilis Boudreau M.D./Ph.D.
+
+## Research Products:
+“TCR Enrichment Analysis (TEA)” Visualization interface to evaluate differential enrichment of tissue-specific TCR clonotype. 
+
+## Awards and Honors:
+2013 – 2014     Knight Cancer Institute, pre-doctoral funding, OHSU.
+2013 – 2014     Molecular Microbiology and Immunology, pre-doctoral funding, Paul Spellman Ph.D., OHSU.
+2014 – 2016     Pulmonary/Critical Care Medicine. NIH T32 Grant, David Lewinsohn M.D./Ph.D., OHSU (5T32HL083808-06/07). 
+
 
 [Follow @eisamahyari](https://twitter.com/eisamahyari)
