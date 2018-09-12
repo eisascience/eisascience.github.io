@@ -1,4 +1,4 @@
-# Eisa Mahyari
+# Eisa Mahyari, Ph.D.
 
 ## ABOUT ME
 
