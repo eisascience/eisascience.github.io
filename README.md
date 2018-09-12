@@ -13,11 +13,12 @@ __Ph.D.__ - Bioinformatics and Computational Biology, OHSU, Department of Medica
 ## Professional Experience
 2008 - 2012      Sr. Research Associate, Louis Picker M.D., Vaccine & Gene Therapy Institute (VGTI), OHSU.
 
-Contribution: Performed experiments, analyzed flow cytometric data, performed statistical tests, and developed reports and presentation martials. 
+#### Contribution: 
+Performed experiments, analyzed flow cytometric data, performed statistical tests, and developed reports and presentation martials. 
 
 2013 - 2018      Pre-doctoral Student, OHSU, DMICE-BCB.
 
-Research Involvement: 
+#### Research Involvement: 
 * Genome-based Bioinformatics, Assessment of bioinformatics pipelines identifying genomic structural variants across several sequenced Gibbons. Lucia Carbone Ph.D.
 * Computational phenotyping in cancer cell lines, CyTOF-based computational analysis of phenotypic heterogeneity in breast cancer-derived cell in the context of combinatory anti-cancer drug treatments to identify sensitive phenotypic subtypes within several breast cancer cell lines. Paul T. Spellman Ph.D.
 * Computational immunophenotyping, CyTOF-based computational immunophenotypic analysis of a unique population of tuberculosis (TB)-recognizing T-cells known as mucosal associated invariant T (MAIT) cells. David M. Lewinsohn M.D./Ph.D.
