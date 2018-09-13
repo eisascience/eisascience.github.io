@@ -20,15 +20,17 @@ As a PhD candidate, I worked under the guidance and mentorship of Drs. David M. 
 For my Ph.D. thesis [(robust and reproducible classification of rare cellular subsets/signatures (RCS) in single-cell technologies within a transfer learning framework)](https://doi.org/10.6083/nx9ezj), I focused on strategies for computational immune phenotyping using single-cell technologies (i.e., flow cytometry, CyTOF, and RNA-Seq). Specifically, I developed a machine learning framework [(the RTL framework, available on Github)](https://github.com/eisascience/RTL) to classify rare cellular subsets in single-cell data because classification of rare events from high-dimensional data is a difficult and highly variable task for humans and machines. Such robust and reproducible methods are a major pillar for accurate predictions of treatment/prophylactic effectiveness and prognostics within a precision-medicine framework. For the near future, I am interesting in continuing to develop robust computational methods to integrate and processes biomedical data as well as addressing clinical hypotheses. Long term, I am interested integrating the mechanisms of immunity and related data to better stratify patients and predicting adverse/positive outcomes.
 
 ## Professional Experience
-2008 - 2012      __Sr. Research Associate__, Louis Picker M.D., Vaccine & Gene Therapy Institute (VGTI), OHSU.
-#### Contribution: 
-Performed experiments, analyzed flow cytometric data, performed statistical tests, and developed reports and presentation martials. 
+2005 - 2007      __Research Associate__, Research Associate, Clinical Research Investigative Studies Program (CRISP) and Critical Care Academics Associates Program (CCAAP), OHSU.
+Contribution: Acquisition of clinical data from patient charts for ongoing studies and enrolment of patients into qualifying research in the emergency department and the intensive care units.  
+
+2008 - 2012      __Sr. Research Associate__, Louis Picker M.D., Vaccine & Gene Therapy Institute (VGTI), OHSU. 
+Contribution: Performed experiments, analyzed flow cytometric data, performed statistical tests, and developed reports and presentation martials. 
 
 2013 - 2018      __Doctoral Student__, DMICE-BCB, OHSU.
-#### Research Involvement: 
-* Genome-based Bioinformatics, Assessment of bioinformatics pipelines identifying genomic structural variants across several sequenced Gibbons. Lucia Carbone Ph.D.
-* Computational phenotyping in cancer cell lines, CyTOF-based computational analysis of phenotypic heterogeneity in breast cancer-derived cell in the context of combinatory anti-cancer drug treatments to identify sensitive phenotypic subtypes within several breast cancer cell lines. Paul T. Spellman Ph.D.
-* Computational immunophenotyping, CyTOF-based computational immunophenotypic analysis of a unique population of tuberculosis (TB)-recognizing T-cells known as mucosal associated invariant T (MAIT) cells. David M. Lewinsohn M.D./Ph.D.
+Research Involvement: 
+__Genome-based Bioinformatics__, Assessment of bioinformatics pipelines identifying genomic structural variants across several sequenced Gibbons. Lucia Carbone Ph.D.
+__Computational phenotyping in cancer cell lines__, CyTOF-based computational analysis of phenotypic heterogeneity in breast cancer-derived cell in the context of combinatory anti-cancer drug treatments to identify sensitive phenotypic subtypes within several breast cancer cell lines. Paul T. Spellman Ph.D.
+__Computational immunophenotyping__, CyTOF-based computational immunophenotypic analysis of a unique population of tuberculosis (TB)-recognizing T-cells known as mucosal associated invariant T (MAIT) cells. David M. Lewinsohn M.D./Ph.D.
 
 ## Publications (h-index = 1, citations = 133)
 + Yoshinori Fukazawa, Haesun Park, Mark J. Cameron, Francois Lefebvre, Richard Lum, Noel Coombes, __Eisa Mahyari__, Shoko I. Hagen, Jin Young Bae, Marcelo Delos Reyes, Tonya Swanson, Alfred W. Legasse, Andrew Sylwester, Scott G. Hansen, Andrew T. Smith, Petra Stafova, Rebecca Shoemaker, Yuan Li, Kelli Oswald, Michael K. Axthelm, Adrian McDermott, Guido Ferrari, David C. Montefiori, Paul T. Edlefsen, Michael Piatak, Jeffrey D. Lifson, Rafick P. Sékaly, and Louis J. Picker.   “Lymph node T cell responses predict the efficacy of live attenuated SIV vaccines.” Nature Medicine, 18(11):1673–1681, 2012. [NCBI link](https://www.ncbi.nlm.nih.gov/pubmed/22961108).
@@ -45,7 +47,7 @@ Performed experiments, analyzed flow cytometric data, performed statistical test
 + Spring 2017	Class TA & Mentored teaching, "Public and social-media engagement and the developing ‘avatar’ of an academic professional" for Research in Bioinformatics and Computational Biology with course professor: Eilis Boudreau M.D./Ph.D.
 
 ## Research Products
-+ “TCR Enrichment Analysis (TEA)” Visualization interface to evaluate differential enrichment of tissue-specific TCR clonotype. 
++ [“TCR Enrichment Analysis (TEA)”](https://github.com/eisascience/Wong-Gold-Lewinsohn). A web-based visualization interface to evaluate differential enrichment of tissue-specific TCR clonotype. 
 
 ## Awards and Honors
 + 2013 – 2014     Knight Cancer Institute, pre-doctoral funding, OHSU.
