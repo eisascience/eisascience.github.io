@@ -21,11 +21,11 @@ __Genome-based Bioinformatics__, Assessment of bioinformatics pipelines identify
 __Computational phenotyping in cancer cell lines__, CyTOF-based computational analysis of phenotypic heterogeneity in breast cancer-derived cell in the context of combinatory anti-cancer drug treatments to identify sensitive phenotypic subtypes within several breast cancer cell lines. Paul T. Spellman Ph.D.
 __Computational immunophenotyping__, CyTOF-based computational immunophenotypic analysis of a unique population of tuberculosis (TB)-recognizing T-cells known as mucosal associated invariant T (MAIT) cells. David M. Lewinsohn M.D./Ph.D.
 
-2005 - 2007      __Research Associate__, Research Associate, Clinical Research Investigative Studies Program (CRISP) and Critical Care Academics Associates Program (CCAAP), OHSU.
-Contribution: Acquisition of clinical data from patient charts for ongoing studies and enrolment of patients into qualifying research in the emergency department and the intensive care units.  
-
 2008 - 2012      __Sr. Research Associate__, Louis Picker M.D., Vaccine & Gene Therapy Institute (VGTI), OHSU. 
 Contribution: Performed experiments, analyzed flow cytometric data, performed statistical tests, and developed reports and presentation martials. 
+
+2005 - 2007      __Research Associate__, Research Associate, Clinical Research Investigative Studies Program (CRISP) and Critical Care Academics Associates Program (CCAAP), OHSU.
+Contribution: Acquisition of clinical data from patient charts for ongoing studies and enrolment of patients into qualifying research in the emergency department and the intensive care units.  
 
 ## Publications (citations = 133)
 + Yoshinori Fukazawa, Haesun Park, Mark J. Cameron, Francois Lefebvre, Richard Lum, Noel Coombes, __Eisa Mahyari__, Shoko I. Hagen, Jin Young Bae, Marcelo Delos Reyes, Tonya Swanson, Alfred W. Legasse, Andrew Sylwester, Scott G. Hansen, Andrew T. Smith, Petra Stafova, Rebecca Shoemaker, Yuan Li, Kelli Oswald, Michael K. Axthelm, Adrian McDermott, Guido Ferrari, David C. Montefiori, Paul T. Edlefsen, Michael Piatak, Jeffrey D. Lifson, Rafick P. Sékaly, and Louis J. Picker.   “Lymph node T cell responses predict the efficacy of live attenuated SIV vaccines.” Nature Medicine, 18(11):1673–1681, 2012. [NCBI link](https://www.ncbi.nlm.nih.gov/pubmed/22961108).
