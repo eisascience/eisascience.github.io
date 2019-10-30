@@ -4,11 +4,11 @@
 [Google Scholar Citations](https://scholar.google.com/citations?user=vp6qss8AAAAJ&hl=en), [Research Gate](https://www.researchgate.net/profile/Eisa_Mahyari), [ORCID](https://orcid.org/0000-0002-5613-3131), [Github](https://eisascience.github.io/), [Twitter](https://twitter.com/eisamahyari), [Email](mailto:eisamahyari@gmail.com)
  
 ## Education
-__B.S.__ - Biology and Chemistry double major. Portland State University (PSU), Portland, OR. (2002 – 2006)
+__Ph.D.__ - Bioinformatics and Computational Biology, OHSU, Department of Medical Informatics and Clinical Epidemiology (DMICE), Division of Bioinformatics and Computational Biology (BCB), Portland, OR. “Robust and reproducible classification of rare cellular subsets/signatures (RCS) in single-cell technologies within a transfer learning framework.” [(doi:10.6083/NX9EZJ)](https://doi.org/10.6083/nx9ezj). Committee members: Shannon K. McWeeney Ph.D., David M. Lewinsohn MD./Ph.D., Michael Mooney Ph.D., Christina Zheng Ph.D., and Evan Lind Ph.D. (2013 – 2018).
 
 __M.S.__ - Biochemistry and Molecular Biology. Oregon Health and Science University (OHSU), Div. Environmental and Biomolecular Systems, Portland, OR. “A six-compartment Physiologically Based Pharmacokinetic (PBPK) Markov-chain Monte Carlo Model to simulate and quantify nicotine metabolism in human populations.” (2006 – 2008).
 
-__Ph.D.__ - Bioinformatics and Computational Biology, OHSU, Department of Medical Informatics and Clinical Epidemiology (DMICE), Division of Bioinformatics and Computational Biology (BCB), Portland, OR. “Robust and reproducible classification of rare cellular subsets/signatures (RCS) in single-cell technologies within a transfer learning framework.” [(doi:10.6083/NX9EZJ)](https://doi.org/10.6083/nx9ezj). Committee members: Shannon K. McWeeney Ph.D., David M. Lewinsohn MD./Ph.D., Michael Mooney Ph.D., Christina Zheng Ph.D., and Evan Lind Ph.D. (2013 – 2018).
+__B.S.__ - Biology and Chemistry double major. Portland State University (PSU), Portland, OR. (2002 – 2006)
 
 ## Research Statement
 I am a computational biologist focused on multi-disciplinary translational biomedical research. I am fascinated by how the immune system, throughout life, functions and affects the development, health, and death of the organism. Specifically, leveraging modern technology, computational power, and statistics to bring about new insight and information, as well as testing research hypotheses that were not previously possible. Currently, I am focused on two domains of biomedical research split between the labs of Don F. Conrad Ph.D., and Benjamin Bimber Ph.D., and mainly work with single-cell transcriptomic data.  In the Conrad Lab, broadly, we investigate the genetics of male infertility and in the Bimber lab, we are focused on the immune system, often, T cells, in the context of several infectious diseases including HIV, CMV, YF, CHIKV, and others.
@@ -36,23 +36,23 @@ Contribution: Acquisition of clinical data from patient charts for ongoing studi
 + Yoshinori Fukazawa, Haesun Park, Mark J. Cameron, Francois Lefebvre, Richard Lum, Noel Coombes, __Eisa Mahyari__, Shoko I. Hagen, Jin Young Bae, Marcelo Delos Reyes, Tonya Swanson, Alfred W. Legasse, Andrew Sylwester, Scott G. Hansen, Andrew T. Smith, Petra Stafova, Rebecca Shoemaker, Yuan Li, Kelli Oswald, Michael K. Axthelm, Adrian McDermott, Guido Ferrari, David C. Montefiori, Paul T. Edlefsen, Michael Piatak, Jeffrey D. Lifson, Rafick P. Sékaly, and Louis J. Picker.   “Lymph node T cell responses predict the efficacy of live attenuated SIV vaccines.” Nature Medicine, 18(11):1673–1681, 2012. [NCBI link](https://www.ncbi.nlm.nih.gov/pubmed/22961108).
 
 ## Oral & Poster Presentations
-+ Winter 2014   “Latent Dirichlet Allocation and Applications in Biology”, Bioinformatics Discussion for Students and Postdocs (BioDSP), OHSU.
-+ Spring 2015   “A Reinforcement Learning Model for Solving the Protein Folding Problem”, BioDSP, OHSU
-+ Spring 2015   “Identification of novel MAIT subtypes with non-linear dimensionality reduction”, Research Week poster, OHSU.
 + Spring 2018   “Robust and reproducible classification of rare cellular subsets/signatures (RCS) in single-cell technologies within a transfer learning framework”, Research Week talk, OHSU.
++ Spring 2015   “Identification of novel MAIT subtypes with non-linear dimensionality reduction”, Research Week poster, OHSU.
++ Spring 2015   “A Reinforcement Learning Model for Solving the Protein Folding Problem”, BioDSP, OHSU
++ Winter 2014   “Latent Dirichlet Allocation and Applications in Biology”, Bioinformatics Discussion for Students and Postdocs (BioDSP), OHSU.
 
 ## Teaching Experience
-+ Spring 2015	Class TA for Statistical methods with course professor: Shannon K. McWeeney Ph.D.
-+ Spring 2016	Class TA and Mentored teaching, "Markov Models, Hidden Markov Models, and Markov Chain Mote Carlo Modeling" for Statistical methods with course professor: Shannon K. McWeeney Ph.D.
 + Spring 2017	Class TA & Mentored teaching, "Public and social-media engagement and the developing ‘avatar’ of an academic professional" for Research in Bioinformatics and Computational Biology with course professor: Eilis Boudreau M.D./Ph.D.
++ Spring 2016	Class TA and Mentored teaching, "Markov Models, Hidden Markov Models, and Markov Chain Mote Carlo Modeling" for Statistical methods with course professor: Shannon K. McWeeney Ph.D.
++ Spring 2015	Class TA for Statistical methods with course professor: Shannon K. McWeeney Ph.D.
 
 ## Research Products
 + [“TCR Enrichment Analysis (TEA)”](https://github.com/eisascience/Wong-Gold-Lewinsohn). A web-based visualization interface to evaluate differential enrichment of tissue-specific TCR clonotype. 
 
 ## Awards and Honors
++ 2014 – 2016     Pulmonary/Critical Care Medicine. NIH T32 Grant, David Lewinsohn M.D./Ph.D., OHSU (5T32HL083808-06/07).
 + 2013 – 2014     Knight Cancer Institute, pre-doctoral funding, OHSU.
 + 2013 – 2014     Molecular Microbiology and Immunology, pre-doctoral funding, Paul Spellman Ph.D., OHSU.
-+ 2014 – 2016     Pulmonary/Critical Care Medicine. NIH T32 Grant, David Lewinsohn M.D./Ph.D., OHSU (5T32HL083808-06/07).
 
 
 
