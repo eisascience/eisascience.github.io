@@ -15,6 +15,7 @@ I am a computational biologist focused on multi-disciplinary translational biome
 
 
 ## Professional Experience
+2018 - Current   __Computational Biologist - RA__, Primate Genetics, ONPRC-OHSU.
 2013 - 2018      __Doctoral Student__, DMICE-BCB, OHSU.
 Research Involvement: 
 __Genome-based Bioinformatics__, Assessment of bioinformatics pipelines identifying genomic structural variants across several sequenced Gibbons. Lucia Carbone Ph.D.
@@ -28,6 +29,8 @@ Contribution: Performed experiments, analyzed flow cytometric data, performed st
 Contribution: Acquisition of clinical data from patient charts for ongoing studies and enrolment of patients into qualifying research in the emergency department and the intensive care units.  
 
 ## Publications (citations = 133)
++ Emily B Wong, Marielle C Gold, Erin W Meermeier, Bongiwe Z Xulu, Sharon Khuzwayo, Zuri A Sullivan, __Eisa Mahyari__, Zoe Rogers, Hénrik Kløverpris, Prabhat K Sharma, Aneta H Worley, Umesh Lalloo, Prinita Baijnath, Anish Ambaram, Leon Naidoo, Moosa Suleman, Rajhmun Madansein, James E McLaren, Kristin Ladell, Kelly L Miners, David A Price, Samuel M Behar, Morten Nielsen, Victoria O Kasprowicz, Alasdair Leslie, William R Bishai, Thumbi Ndung’u, David M Lewinsohn. Nature Communications biology. "TRAV1-2+ CD8+ T-cells including oligoconal expansions of MAIT cells are enriched in the airways in human tuberculosis." [NCBI link](https://www.ncbi.nlm.nih.gov/pubmed/31231693/).
+
 + Yoshinori Fukazawa, Haesun Park, Mark J. Cameron, Francois Lefebvre, Richard Lum, Noel Coombes, __Eisa Mahyari__, Shoko I. Hagen, Jin Young Bae, Marcelo Delos Reyes, Tonya Swanson, Alfred W. Legasse, Andrew Sylwester, Scott G. Hansen, Andrew T. Smith, Petra Stafova, Rebecca Shoemaker, Yuan Li, Kelli Oswald, Michael K. Axthelm, Adrian McDermott, Guido Ferrari, David C. Montefiori, Paul T. Edlefsen, Michael Piatak, Jeffrey D. Lifson, Rafick P. Sékaly, and Louis J. Picker.   “Lymph node T cell responses predict the efficacy of live attenuated SIV vaccines.” Nature Medicine, 18(11):1673–1681, 2012. [NCBI link](https://www.ncbi.nlm.nih.gov/pubmed/22961108).
 
 ## Oral & Poster Presentations
