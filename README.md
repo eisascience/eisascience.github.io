@@ -16,7 +16,9 @@ I am a computational biologist focused on multi-disciplinary translational biome
 
 ## Professional Experience
 2018 - Current   __Computational Biologist - RA__, Primate Genetics, ONPRC-OHSU.
+
 2013 - 2018      __Doctoral Student__, DMICE-BCB, OHSU.
+
 Research Involvement: 
 __Genome-based Bioinformatics__, Assessment of bioinformatics pipelines identifying genomic structural variants across several sequenced Gibbons. Lucia Carbone Ph.D.
 __Computational phenotyping in cancer cell lines__, CyTOF-based computational analysis of phenotypic heterogeneity in breast cancer-derived cell in the context of combinatory anti-cancer drug treatments to identify sensitive phenotypic subtypes within several breast cancer cell lines. Paul T. Spellman Ph.D.
