@@ -15,7 +15,7 @@ I am a computational biologist focused on multi-disciplinary translational biome
 
 
 ## Professional Experience
-2018 - Current   __Computational Biologist - RA__, Primate Genetics, ONPRC-OHSU.
+2018 - Current   __Computational Biologist - RA__, Labs of Donald F. Conrad Ph.D. and Benjamin Bimber Ph.D. - Reproductive Genetics - Primate Genetics, ONPRC-OHSU.
 
 2013 - 2018      __Doctoral Student__, DMICE-BCB, OHSU.
 
