@@ -11,8 +11,7 @@ __M.S.__ - Biochemistry and Molecular Biology. Oregon Health and Science Univers
 __B.S.__ - Biology and Chemistry double major. Portland State University (PSU), Portland, OR. (2002 – 2006)
 
 ## Research Statement
-I am a computational biologist focused on multi-disciplinary translational biomedical research. I am fascinated by how the immune system, throughout life, functions and influences the development, health, and death of the organism. Specifically, leveraging modern technology, computational power, and statistics to bring about new insight and information, as well as testing research hypotheses that were not previously possible. Currently, I am focused on two domains of biomedical research split between the labs of Don F. Conrad Ph.D., and Benjamin Bimber Ph.D., and mainly work with single-cell transcriptomic data.  In the Conrad Lab, broadly, we investigate the genetics of male infertility and in the Bimber lab, we are focused on the immune system, often, T cells, in the context of several infectious diseases including HIV, CMV, YF, CHIKV, and others.
-
+I am a computational biologist focused on multi-disciplinary translational biomedical research. I am fascinated by how the immune system, throughout life, functions and influences the development, health, and death of the organism. Specifically, leveraging modern technology, computational power, and statistics to bring about new insight and information, as well as testing research hypotheses that were not previously possible. Currently, I am focused on two domains of biomedical research split between the labs of Don F. Conrad Ph.D., and Benjamin Bimber Ph.D., and mainly work with single-cell transcriptomic and spatial-omics data. In the Conrad Lab, broadly, we investigate the genetics of infertility and in the Bimber lab, we are focused on the immune system, often, T cells, in the context of several infectious diseases including HIV, CMV, YF, CHIKV, and others.
 
 ## Professional Experience
 2018 - Current   __Computational Biologist, Molecular Immunopathology - RA__, Lab of Benjamin N. Bimber Ph.D. - Primate Genetics, ONPRC-OHSU.
@@ -23,7 +22,8 @@ I am a computational biologist focused on multi-disciplinary translational biome
 
 Research Involvement:
 
-2013 - 2018
+2013 - 2018:
+
 __Genome-based Bioinformatics__, Assessment of bioinformatics pipelines identifying genomic structural variants across several sequenced Gibbons. Lucia Carbone Ph.D.
 __Computational phenotyping in cancer cell lines__, CyTOF-based computational analysis of phenotypic heterogeneity in breast cancer-derived cell in the context of combinatory anti-cancer drug treatments to identify sensitive phenotypic subtypes within several breast cancer cell lines. Paul T. Spellman Ph.D.
 __Computational immunophenotyping__, CyTOF-based computational immunophenotypic analysis of a unique population of tuberculosis (TB)-recognizing T-cells known as mucosal associated invariant T (MAIT) cells. David M. Lewinsohn M.D./Ph.D.
