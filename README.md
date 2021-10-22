@@ -22,9 +22,7 @@ I am a computational biologist focused on multi-disciplinary translational biome
 
 Research Involvement:
 
-2013 - 2018:
-
-__Genome-based Bioinformatics__, Assessment of bioinformatics pipelines identifying genomic structural variants across several sequenced Gibbons. Lucia Carbone Ph.D.
+2013 - 2018      __Genome-based Bioinformatics__, Assessment of bioinformatics pipelines identifying genomic structural variants across several sequenced Gibbons. Lucia Carbone Ph.D.
 __Computational phenotyping in cancer cell lines__, CyTOF-based computational analysis of phenotypic heterogeneity in breast cancer-derived cell in the context of combinatory anti-cancer drug treatments to identify sensitive phenotypic subtypes within several breast cancer cell lines. Paul T. Spellman Ph.D.
 __Computational immunophenotyping__, CyTOF-based computational immunophenotypic analysis of a unique population of tuberculosis (TB)-recognizing T-cells known as mucosal associated invariant T (MAIT) cells. David M. Lewinsohn M.D./Ph.D.
 
