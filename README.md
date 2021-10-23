@@ -4,7 +4,7 @@
 [Google Scholar Citations](https://scholar.google.com/citations?user=vp6qss8AAAAJ&hl=en), [Research Gate](https://www.researchgate.net/profile/Eisa_Mahyari), [ORCID](https://orcid.org/0000-0002-5613-3131), [Github](https://eisascience.github.io/), [Twitter](https://twitter.com/eisamahyari), [Email](mailto:eisamahyari@gmail.com)
  
 ## Education
-__Ph.D.__ - Bioinformatics and Computational Biology, OHSU, Department of Medical Informatics and Clinical Epidemiology (DMICE), Division of Bioinformatics and Computational Biology (BCB), Portland, OR. “Robust and reproducible classification of rare cellular subsets/signatures (RCS) in single-cell technologies within a transfer learning framework.” [(doi:10.6083/NX9EZJ)](https://doi.org/10.6083/nx9ezj). Committee members: Shannon K. McWeeney Ph.D., David M. Lewinsohn MD./Ph.D., Michael Mooney Ph.D., Christina Zheng Ph.D., and Evan Lind Ph.D. (2013 – 2018).
+__Ph.D.__ - Bioinformatics and Computational Biology, OHSU, Department of Medical Informatics and Clinical Epidemiology (DMICE), Division of Bioinformatics and Computational Biology (BCB), Portland, OR. “Robust and reproducible classification of rare cellular subsets/signatures (RCS) in single-cell technologies within a transfer learning framework.” [(doi:10.6083/NX9EZJ)](https://doi.org/10.6083/nx9ezj). Committee members: Shannon K. McWeeney Ph.D., David M. Lewinsohn MD./Ph.D., Michael Mooney Ph.D., Christina Zheng Ph.D., and Evan Lind Ph.D. (2013 – 2018). 
 
 __M.S.__ - Biochemistry and Molecular Biology. Oregon Health and Science University (OHSU), Div. Environmental and Biomolecular Systems, Portland, OR. “A six-compartment Physiologically Based Pharmacokinetic (PBPK) Markov-chain Monte Carlo Model to simulate and quantify nicotine metabolism in human populations.” (2006 – 2008).
 
@@ -17,14 +17,20 @@ I am a computational biologist focused on multi-disciplinary translational biome
 - Reproductive Biology: Human, Rhesus, and Murine models. Specialized focus in testis biology and genetics of infertility. 
 - Immunology: Human, Rhesus, and Murine models. Specialized focus in adaptive immune system and specifically T cell biology.
 - Infectious Diseases: HIV/SIV, SARS-CoV2, ZIKA, Yellow Fever, Dengue, and Mycobacterium tuberculosis.
-- Computational biology: Statistical inference (Machine learning) with specialized focus in Matrix and Tensor decomposition methods and Transfer learning. 
+- Computational science: Statistical inference (Machine learning) with specialized focus in Matrix and Tensor decomposition methods and Transfer learning. 
+- Mathematical modeling: with emphasis in Physiological Based Pharmacokinetic (PBPK) modeling with Markov Chain Monte-Carlo solutions of the dynamic models
+- Statistical data science: with emphasis on transcriptomic expression data and genomics variant data processing.
+- Programming and scripting with R (dominantly), Python, bash, and C++.
+- High-performance cloud computing with SLURM.
+
+### Computer languages
 
 ## Professional Experience
 2018 - Current   __Computational Biologist, Molecular Immunopathology - RA__, Lab of Benjamin N. Bimber Ph.D. - Primate Genetics, ONPRC-OHSU.
 
 2018 - Current   __Computational Biologist, Reproductive biology - RA__, Lab of Donald F. Conrad Ph.D. - Reproductive Genetics, ONPRC-OHSU.
 
-2016 - 2018      __Doctoral Candidate__, DMICE-BCB, OHSU.
+2016 - 2018      __Doctoral Candidate__, DMICE-BCB, OHSU. Developed novel machine learning framework for automated classification of rare cells in single-cell RNA-seq data.
 
 2013 - 2016      __Doctoral Student__, DMICE-BCB, OHSU. 
 Research Involvement:
@@ -37,8 +43,6 @@ Contribution: Performed experiments, analyzed flow cytometric data, performed st
 
 2005 - 2007      __Research Associate__, Research Associate, Clinical Research Investigative Studies Program (CRISP) and Critical Care Academics Associates Program (CCAAP), OHSU.
 Contribution: Acquisition of clinical data from patient charts for ongoing studies and enrolment of patients into qualifying research in the emergency department and the intensive care units.  
-
-
 
 
 
@@ -76,13 +80,14 @@ Contribution: Acquisition of clinical data from patient charts for ongoing studi
 + [“TCR Enrichment Analysis (TEA)”](https://github.com/eisascience/Wong-Gold-Lewinsohn). A web-based visualization interface to evaluate differential enrichment of tissue-specific TCR clonotype. 
 
 
-
 ## Awards and Honors
 + 2021 - 2022     NIH LRP - Contraception and Infertility Research.
 + 2014 – 2016     Pulmonary/Critical Care Medicine. NIH T32 Grant, David Lewinsohn M.D./Ph.D., OHSU (5T32HL083808-06/07).
 + 2013 – 2014     Knight Cancer Institute, pre-doctoral funding, OHSU.
 + 2013 – 2014     Molecular Microbiology and Immunology, pre-doctoral funding, Paul Spellman Ph.D., OHSU.
 
-
+## Associations and Memberships
++ Chair, Communications subcommittee, VGTI Diversity Equity and Inclusion (DEI) Committee
++ Member, VGTI Scientific Retreat committee
 
 [Follow @eisamahyari](https://twitter.com/eisamahyari)
