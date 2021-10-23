@@ -23,7 +23,6 @@ I am a computational biologist focused on multi-disciplinary translational biome
 - Programming and scripting with R (dominantly), Python, bash, and C++.
 - High-performance cloud computing with SLURM.
 
-### Computer languages
 
 ## Professional Experience
 2018 - Current   __Computational Biologist, Molecular Immunopathology - RA__, Lab of Benjamin N. Bimber Ph.D. - Primate Genetics, ONPRC-OHSU.
