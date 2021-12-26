@@ -26,7 +26,9 @@ I am a computational biologist focused on multi-disciplinary translational biome
 
 ## Professional Experience
 2018 - Current   __Computational Biologist, Molecular Immunopathology - RA__, Lab of Benjamin N. Bimber Ph.D. - Primate Genetics, ONPRC-OHSU.
-
+- Generated hypotheses and translated research data to insights that improve the understanding of the immunopathology and identified genomic signatures of pathogen infection.
+- Design and implement algorithms and statistical/machine learning models to drive discovery and interpretation using genomic, metagenomic, and other metadata; focused on single cell transcriptomics.
+- Collaborate with other scientists, physicians, and engineers focused on scientific discoveries and the invention of technologies.
 2018 - Current   __Computational Biologist, Reproductive biology - RA__, Lab of Donald F. Conrad Ph.D. - Reproductive Genetics, ONPRC-OHSU.
 
 2016 - 2018      __Doctoral Candidate__, DMICE-BCB, OHSU. Developed novel machine learning framework for automated classification of rare cells in single-cell RNA-seq data.
