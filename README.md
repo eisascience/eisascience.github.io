@@ -11,28 +11,37 @@ __M.S.__ - Biochemistry and Molecular Biology. Oregon Health and Science Univers
 __B.S.__ - Biology and Chemistry double major. Portland State University (PSU), Portland, OR. (2002 – 2006)
 
 ## Research Statement
-I am a computational biologist focused on multi-disciplinary translational biomedical research with expertise in machine learning, immunology, and male reproductive biology. My day-to-day tasks are mostly researched focused, writing code, running statistical tests, and translating the biology to meaninful and actionable targets. I also mentor and guide prospective or current graduate students both on their work and career development. I am fascinated by how the immune system, throughout life, functions and influences the development, health, and death of an organism. Specifically, leveraging modern technology, computational power, and statistics to bring about new insight and information, as well as testing research hypotheses that were not previously possible. Currently, I am focused on two domains of biomedical research split between the labs of Don F. Conrad Ph.D., and Benjamin Bimber Ph.D., and mainly work with single-cell transcriptomic and spatial-omics data. In the Conrad Lab, broadly, we investigate the genetics of infertility and in the Bimber lab, we are focused on the immune system, often, T cells, in the context of several infectious diseases. 
+I am a computational biologist focused on multi-disciplinary translational biomedical research with expertise in machine learning, immunology, and male reproductive biology. 
+My day-to-day tasks are mostly researched focused, writing code, running statistical tests, and translating the biology to meaninful and actionable targets. 
+I also mentor and guide prospective or current graduate students both on their work and career development. I am fascinated by how the immune system, throughout life, functions and influences the development, health, and death of an organism. Specifically, leveraging modern technology, computational power, and statistics to bring about new insight and information, as well as testing research hypotheses that were not previously possible. 
+Currently, I am focused on two domains of biomedical research split between the labs of Don F. Conrad Ph.D., and Benjamin Bimber Ph.D., and mainly work with single-cell transcriptomic and spatial-omics data. 
+In the Conrad Lab, broadly, we investigate the genetics of infertility and in the Bimber lab, we are focused on the immune system, often, T cells, in the context of several infectious diseases. 
 
 ### Domains of research expertise/interest
 - Reproductive Biology: Human, Rhesus, and Murine models. Specialized focus in testis biology and genetics of infertility. 
-- Immunology: Human, Rhesus, and Murine models. Specialized focus in adaptive immune system and specifically T cell biology.
+- Immunology: Human, Rhesus, and Murine models. Specialized focus in adaptive immune system and specifically T cell biology and their TCRs.
 - Infectious Diseases: HIV/SIV, SARS-CoV2, ZIKA, Yellow Fever, Dengue, and Mycobacterium tuberculosis.
 - Computational science: Statistical inference (Machine learning) with specialized focus in Matrix and Tensor decomposition methods and Transfer learning. 
 - Mathematical modeling: with emphasis in Physiological Based Pharmacokinetic (PBPK) modeling with Markov Chain Monte-Carlo solutions of the dynamic models
 - Statistical data science: with emphasis on transcriptomic expression data and genomics variant data processing.
 - Programming and scripting with R (dominantly), Python, bash, and C++.
 - High-performance cloud computing with SLURM.
+- Project management and team leadership.
 
 
 ## Professional Experience
 2018 - Current   __Computational Biologist, Molecular Immunopathology - RA__, Lab of Benjamin N. Bimber Ph.D. - Primate Genetics, ONPRC-OHSU.
 - Generated hypotheses and translated research data to insights that improve the understanding of the immunopathology and identified genomic signatures of pathogen infection.
-- Design and implement algorithms and statistical/machine learning models to drive discovery and interpretation using genomic, metagenomic, and other metadata; focused on single cell transcriptomics.
-- Collaborate with other scientists, physicians, and engineers focused on scientific discoveries and the invention of technologies.
+- Designed and implemented algorithms and statistical/machine learning models to drive discovery and interpretation using genomic, metagenomic, and other metadata; focused on single cell transcriptomics.
+- Managed collaborative and consultant assistance and training provided to researchers
+
 2018 - Current   __Computational Biologist, Reproductive biology - RA__, Lab of Donald F. Conrad Ph.D. - Reproductive Genetics, ONPRC-OHSU.
+- Identified pathological genomic signatures that distinguished clinical differences in male infertility.
+- Designed scRNASeq experiments to address specific hypotheses with mice models.
+- Implemented and modified per need, current and emerging computational biology and bioinformatics algorithms
+- Collaborated with other scientists, physicians, and engineers focused on scientific discoveries and the invention of technologies.
 
 2016 - 2018      __Doctoral Candidate__, DMICE-BCB, OHSU. Developed novel machine learning framework for automated classification of rare cells in single-cell RNA-seq data.
-
 2013 - 2016      __Doctoral Student__, DMICE-BCB, OHSU. 
 Research Involvement:
 __Genome-based Bioinformatics__, Assessment of bioinformatics pipelines identifying genomic structural variants across several sequenced Gibbons. Lucia Carbone Ph.D.
@@ -43,7 +52,7 @@ __Computational immunophenotyping__, CyTOF-based computational immunophenotypic 
 Contribution: Performed experiments, analyzed flow cytometric data, performed statistical tests, and developed reports and presentation martials. 
 
 2005 - 2007      __Research Associate__, Research Associate, Clinical Research Investigative Studies Program (CRISP) and Critical Care Academics Associates Program (CCAAP), OHSU.
-Contribution: Acquisition of clinical data from patient charts for ongoing studies and enrolment of patients into qualifying research in the emergency department and the intensive care units.  
+Contribution: Acquired clinical data from patient charts for ongoing studies and identified candidates for enrollment into qualifying research in the emergency department and the intensive care units.  
 
 
 
