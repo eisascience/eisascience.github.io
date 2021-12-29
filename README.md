@@ -23,8 +23,8 @@ In the Conrad Lab, broadly, we investigate the genetics of infertility and in th
 - Infectious Diseases: HIV/SIV, SARS-CoV2, ZIKA, Yellow Fever, Dengue, and Mycobacterium tuberculosis.
 - Computational science: Statistical inference (Machine learning) with specialized focus in Matrix and Tensor decomposition methods and Transfer learning. 
 - Mathematical modeling: with emphasis in Physiological Based Pharmacokinetic (PBPK) modeling with Markov Chain Monte-Carlo solutions of the dynamic models
-- Statistical data science: with emphasis on transcriptomic expression data and genomics variant data processing.
-- Programming and scripting with R (dominantly), Python, bash, and C++.
+- Statistical data-science: with emphasis on transcriptomic expression data and genomics variant data processing.
+- Programming and scripting with R (dominantly), Python, and bash.
 - High-performance cloud computing with SLURM.
 - Project management and team leadership.
 
@@ -37,7 +37,7 @@ In the Conrad Lab, broadly, we investigate the genetics of infertility and in th
 
 2018 - Current   __Computational Biologist, Reproductive biology - RA__, Lab of Donald F. Conrad Ph.D. - Reproductive Genetics, ONPRC-OHSU.
 - Identified pathological genomic signatures that distinguished clinical differences in male infertility.
-- Designed scRNASeq experiments to address specific hypotheses with mice models.
+- Designed scRNASeq experiments to address specific hypotheses with mouse models.
 - Implemented and modified per need, current and emerging computational biology and bioinformatics algorithms
 - Collaborated with other scientists, physicians, and engineers focused on scientific discoveries and the invention of technologies.
 
