@@ -33,7 +33,8 @@ In the Conrad Lab, broadly, we investigate the genetics of infertility and in th
 2018 - Current   __Computational Biologist, Molecular Immunopathology - RA__, Lab of Benjamin N. Bimber Ph.D. - Primate Genetics, ONPRC-OHSU.
 - Generated hypotheses and translated research data to insights that improve the understanding of the immunopathology and identified genomic signatures of pathogen infection.
 - Designed and implemented algorithms and statistical/machine learning models to drive discovery and interpretation using genomic, metagenomic, and other metadata; focused on single cell transcriptomics.
-- Managed collaborative and consultant assistance and training provided to researchers
+- Managed and consulted on collaborations and projects
+- Provided technical (computational, statistical, programming, etc) training to researchers and students
 
 2018 - Current   __Computational Biologist, Reproductive biology - RA__, Lab of Donald F. Conrad Ph.D. - Reproductive Genetics, ONPRC-OHSU.
 - Identified pathological genomic signatures that distinguished clinical differences in male infertility.
