@@ -86,7 +86,7 @@ Contribution: Acquired clinical data from patient charts for ongoing studies and
 + Spring 2015	Class TA for Statistical methods with course professor: Shannon K. McWeeney Ph.D.
 
 ## MCL Research Products
-+ [“The Human Infertility Single-cell Testis Atlas (HISTA)”](https://conradlab.shinyapps.io/HISTA/). A web-based visualization interface to evaluate differential enrichment of tissue-specific TCR clonotype. 
++ [“The Human Infertility Single-cell Testis Atlas (HISTA)”](https://conradlab.shinyapps.io/HISTA/). A web-based single-cell atlas that enables exploration and hypothesis testing of testis-specific cell types and genomic mechanisms in the context of infertility.
 + [“TCR Enrichment Analysis (TEA)”](https://github.com/eisascience/Wong-Gold-Lewinsohn). A web-based visualization interface to evaluate differential enrichment of tissue-specific TCR clonotype. 
 
 
