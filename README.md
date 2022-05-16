@@ -60,7 +60,7 @@ Contribution: Acquired clinical data from patient charts for ongoing studies and
 ## Publications by year
 
 + Gregory J Boggy, GW McElfresh, __Eisa Mahyari__, Abigail B Ventura, Scott G Hansen, Louis J Picker, Benjamin N Bimber "BFF and cellhashR: analysis tools for accurate demultiplexing of cell hashing data." Bioinformatics (2022). [link](https://academic.oup.com/bioinformatics/article-abstract/38/10/2791/6585402)
-+ 
+
 + __Eisa Mahyari__, Jingtao Guo, Ana C. Lima, Daniel P. Lewinsohn, Alexandra M. Stendahl, Katinka A. Vigh-Conrad, Xichen Nie, Liina Nagirnaja, Nicole B. Rockweiler, Douglas T.Carrell, James M.Hotaling, Kenneth I.Aston, Donald F.Conrad  "Comparative single-cell analysis of biopsies clarifies pathogenic mechanisms in Klinefelter syndrome." The American Journal of Human Genetics 108, no. 10 (2021): 1924-1945. [link](https://www.sciencedirect.com/science/article/abs/pii/S0002929721003372)
 
 + N Haigwood, M Shapiro, T Cheever, S Pandey, __E Mahyari__, K Onwuzu, J Reed, H Sidener, J Smedley, L Colgin, A Lewis, A Johnson, B Bimber, J Sacha, A Hessell "Immune perturbation is more profound in newborn than in infant macaques during acute SHIV infection." Journal of the International AIDS Society (2021). [link](https://go.gale.com/ps/i.do?id=GALE%7CA656303588&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=17582652&p=AONE&sw=w&userGroupName=oregon_oweb)
