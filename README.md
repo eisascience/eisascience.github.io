@@ -12,9 +12,10 @@ __B.S.__ - Biology and Chemistry double major. Portland State University (PSU), 
 
 ## Research Statement
 I am a computational biologist focused on multi-disciplinary translational biomedical research with expertise in machine learning, immunology, and male reproductive biology. 
-My day-to-day tasks are mostly researched focused, managing several ongoing projects and the team members involved in them. I oversee writing code, running statistical tests, and translating the biology to meaninful and actionable targets, with the support of the involved PIs. I consult and provide technical training and assitants to various labs and projects. I also mentor and guide prospective or current graduate students both on their work and career development. I am fascinated by how the immune system, throughout life, functions and influences the development, health, and death of an organism. Specifically, leveraging modern technology, computational power, and statistics to bring about new insight and information, as well as testing research hypotheses that were not previously possible. 
+My day-to-day tasks are mostly researched focused, managing several ongoing projects and the team members involved in them. I oversee writing code, running statistical tests, and translating the biology to meaningful and actionable targets, with the support of the involved PIs. I consult and provide technical training and assistants to various labs and projects. I also mentor and guide prospective or current graduate students both on their work and career development. I am fascinated by how the immune system, throughout life, functions and influences the development, health, and death of an organism. Specifically, leveraging modern technology, computational power, and statistics to bring about new insight and information, as well as testing research hypotheses that were not previously possible. 
 Currently, I am focused on two domains of biomedical research split between the labs of Don F. Conrad Ph.D., and Benjamin Bimber Ph.D., and mainly work with single-cell transcriptomic and spatial-omics data. 
-In the Conrad Lab, broadly, we investigate the genetics of infertility and in the Bimber lab, we are focused on the immune system, often, T cells, in the context of several infectious diseases. 
+In the Conrad Lab, broadly, we investigate the genetics of infertility and in the Bimber lab, we are focused on the immune system, often, T cells, in the context of several infectious diseases.
+
 
 ### Domains of research expertise/interest
 - Reproductive Biology: Human, Rhesus, and Murine models. Specialized focus in testis biology and genetics of infertility. 
@@ -59,6 +60,10 @@ Contribution: Acquired clinical data from patient charts for ongoing studies and
 ## Publications
 
 + __Eisa Mahyari__, Jingtao Guo, Ana C. Lima, Daniel P. Lewinsohn, Alexandra M. Stendahl, Katinka A. Vigh-Conrad, Xichen Nie, Liina Nagirnaja, Nicole B. Rockweiler, Douglas T.Carrell, James M.Hotaling, Kenneth I.Aston, Donald F.Conrad  "Comparative single-cell analysis of biopsies clarifies pathogenic mechanisms in Klinefelter syndrome." The American Journal of Human Genetics 108, no. 10 (2021): 1924-1945. [link](https://www.sciencedirect.com/science/article/abs/pii/S0002929721003372)
+
++ Gregory J Boggy, GW McElfresh, __Eisa Mahyari__, Abigail B Ventura, Scott G Hansen, Louis J Picker, Benjamin N Bimber "BFF and cellhashR: analysis tools for accurate demultiplexing of cell hashing data." Bioinformatics (2022). [link](https://academic.oup.com/bioinformatics/article-abstract/38/10/2791/6585402)
+
++ N Haigwood, M Shapiro, T Cheever, S Pandey, __E Mahyari__, K Onwuzu, J Reed, H Sidener, J Smedley, L Colgin, A Lewis, A Johnson, B Bimber, J Sacha, A Hessell"Immune perturbation is more profound in newborn than in infant macaques during acute SHIV infection." Journal of the International AIDS Society (2021). [link](https://go.gale.com/ps/i.do?id=GALE%7CA656303588&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=17582652&p=AONE&sw=w&userGroupName=oregon_oweb)
 
 + Bruce K. Patterson, Harish Seethamraju, Kush Dhody, Michael J. Corley, Kazem Kazempour, Jay Lalezari, Alina PS Pang, __Eisa Mahyari__ et al. "CCR5 inhibition in critical COVID-19 patients decreases inflammatory cytokines, increases CD8 T-cells, and decreases SARS-CoV2 RNA in plasma by day 14." International Journal of Infectious Diseases 103 (2021): 25-32.[Link](https://www.sciencedirect.com/science/article/pii/S1201971220323055)
 
