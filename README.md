@@ -76,6 +76,7 @@ Contribution: Acquired clinical data from patient charts for ongoing studies and
 + Yoshinori Fukazawa, Haesun Park, Mark J. Cameron, Francois Lefebvre, Richard Lum, Noel Coombes, __Eisa Mahyari__, Shoko I. Hagen, Jin Young Bae, Marcelo Delos Reyes, Tonya Swanson, Alfred W. Legasse, Andrew Sylwester, Scott G. Hansen, Andrew T. Smith, Petra Stafova, Rebecca Shoemaker, Yuan Li, Kelli Oswald, Michael K. Axthelm, Adrian McDermott, Guido Ferrari, David C. Montefiori, Paul T. Edlefsen, Michael Piatak, Jeffrey D. Lifson, Rafick P. Sékaly, and Louis J. Picker.   “Lymph node T cell responses predict the efficacy of live attenuated SIV vaccines.” Nature Medicine, 2012. [NCBI link](https://www.ncbi.nlm.nih.gov/pubmed/22961108).
 
 ## Accepted Abstracts, Poster, & Talks
++ Spring 2021   "The human infertility scRNA-seq testis atlas (HISTA)", Testis workshop 2021.
 + Fall 2021     "Comparative single-cell analysis of biopsies identifies pathogenic mechanisms in Klinefelter Syndrome (KS)", National Centers for Translational Research in Reproduction and Infertility (NCTRI) Conference.
 + Fall 2021     "Rhesus Immunome Reference Atlas (RIRA): A multi-tissue single-cell landscape of immune cells", 38th Symposium on NHP Models for AIDS Conference. 
 + Spring 2021   "Rhesus Immunome Reference Atlas (RIRA): An intro to the multi-tissue single-cell landscape of immune cells", OHSU-VGTI Weekly Seminar.
