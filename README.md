@@ -59,13 +59,13 @@ Contribution: Acquired clinical data from patient charts for ongoing studies and
 
 ## Publications by year
 
-+ Liina Nagirnaja, Alexandra M. Lopes, Wu-Lin Charng, Brian Miller, Rytis Stakaitis, Ieva Golubickaite, Alexandra Stendahl, Tianpengcheng Luan, Corinna Friedrich, Eisa Mahyari, [...], Kristian Almstrup, Kenneth I Aston, Donald F Conrad "Diverse monogenic subforms of human spermatogenic failure", Nature Communications, 13, 1, (2022). [link](https://doi.org/10.1038/s41467-022-35661-z)
++ Liina Nagirnaja, Alexandra M. Lopes, Wu-Lin Charng, Brian Miller, Rytis Stakaitis, Ieva Golubickaite, Alexandra Stendahl, Tianpengcheng Luan, Corinna Friedrich, __Eisa Mahyari__, [...], Kristian Almstrup, Kenneth I Aston, Donald F Conrad "Diverse monogenic subforms of human spermatogenic failure", Nature Communications, 13, 1, (2022). [link](https://doi.org/10.1038/s41467-022-35661-z)
 
-+ Yoshinori Fukazawa, Jeremy Smedley, Bryan Randall, Eisa Mahyari, Carly Starke, Richard Lum, Manuel Medina, Benjamin Varco-Merth, Kathleen Busman-Sahay, Miranda Fisher, "Mesenteric lymph nodes are sites of increased SIV RNA expression in SIV-infected rhesus macaques on antiretroviral therapy", Journal of Medical Primatology, 51, 5, 320-320, (2022)
++ Yoshinori Fukazawa, Jeremy Smedley, Bryan Randall, __Eisa Mahyari__, Carly Starke, Richard Lum, Manuel Medina, Benjamin Varco-Merth, Kathleen Busman-Sahay, Miranda Fisher, "Mesenteric lymph nodes are sites of increased SIV RNA expression in SIV-infected rhesus macaques on antiretroviral therapy", Journal of Medical Primatology, 51, 5, 320-320, (2022)
 
-+ GW McElfresh, Gregory Boggy, Eisa Mahyari, Michael Stutz, Abigail Ventura, Scott Hansen, Louis Picker, Benjamin Bimber, "Single cell transcriptomic profiling of early tuberculosis infection and granuloma formation in rhesus macaque", Journal of Medical Primatology, 51, 5, 313-314, (2022)
++ GW McElfresh, Gregory Boggy, __Eisa Mahyari__, Michael Stutz, Abigail Ventura, Scott Hansen, Louis Picker, Benjamin Bimber, "Single cell transcriptomic profiling of early tuberculosis infection and granuloma formation in rhesus macaque", Journal of Medical Primatology, 51, 5, 313-314, (2022)
 
-+ Eisa Mahyari, Abigail Ventura, Eric McDonald, Gregory Boggy, GW McElfresh, Scott Hansen, Louis Picker, Benjamin Bimber, "Rhesus Immunome Reference Atlas (RIRA): A multi-tissue single-cell landscape of immune cells", Journal of Medical Primatology, 51, 5, 296-296, (2022)
++ __Eisa Mahyari__, Abigail Ventura, Eric McDonald, Gregory Boggy, GW McElfresh, Scott Hansen, Louis Picker, Benjamin Bimber, "Rhesus Immunome Reference Atlas (RIRA): A multi-tissue single-cell landscape of immune cells", Journal of Medical Primatology, 51, 5, 296-296, (2022)
 
 + Gregory J Boggy, GW McElfresh, __Eisa Mahyari__, Abigail B Ventura, Scott G Hansen, Louis J Picker, Benjamin N Bimber "BFF and cellhashR: analysis tools for accurate demultiplexing of cell hashing data." Bioinformatics (2022). [link](https://academic.oup.com/bioinformatics/article-abstract/38/10/2791/6585402)
 
