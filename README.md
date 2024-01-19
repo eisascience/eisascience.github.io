@@ -4,6 +4,7 @@
 [Google Scholar Citations](https://scholar.google.com/citations?user=vp6qss8AAAAJ&hl=en), [Research Gate](https://www.researchgate.net/profile/Eisa_Mahyari), [ORCID](https://orcid.org/0000-0002-5613-3131), [Github](https://eisascience.github.io/), [Twitter](https://twitter.com/eisamahyari), [Email](mailto:eisamahyari@gmail.com)
  
 ## Education
+__Post-Ph.D.__ - Mammalian Reproduction, OHSU-ONPRC, Division of Genetics. Prof. Don F. Conrad.
 __Ph.D.__ - Bioinformatics and Computational Biology, OHSU, Department of Medical Informatics and Clinical Epidemiology (DMICE), Division of Bioinformatics and Computational Biology (BCB), Portland, OR. “Robust and reproducible classification of rare cellular subsets/signatures (RCS) in single-cell technologies within a transfer learning framework.” [(doi:10.6083/NX9EZJ)](https://doi.org/10.6083/nx9ezj). Committee members: Shannon K. McWeeney Ph.D., David M. Lewinsohn MD./Ph.D., Michael Mooney Ph.D., Christina Zheng Ph.D., and Evan Lind Ph.D. (2013 – 2018). 
 
 __M.S.__ - Biochemistry and Molecular Biology. Oregon Health and Science University (OHSU), Div. Environmental and Biomolecular Systems, Portland, OR. “A six-compartment Physiologically Based Pharmacokinetic (PBPK) Markov-chain Monte Carlo Model to simulate and quantify nicotine metabolism in human populations.” (2006 – 2008).
