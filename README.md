@@ -210,7 +210,7 @@ Contribution: Acquired clinical data from patient charts for ongoing studies and
 - 28th Annual Symposium on Nonhuman Primate Models for AIDS - New Orleans, LA, USA, 2010
 
 
-[See My LinkedIn]([https://twitter.com/eisamahyari](https://www.linkedin.com/in/eisa-mahyari-6605242a/))
 
+[See My LinkedIn](https://www.linkedin.com/in/eisa-mahyari-6605242a/)
 
 [Follow @eisamahyari](https://twitter.com/eisamahyari)
