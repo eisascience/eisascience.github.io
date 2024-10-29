@@ -95,9 +95,8 @@ Research Involvement:
 2008 - 2012      __Sr. Research Associate__, Louis Picker M.D., Vaccine & Gene Therapy Institute (VGTI), OHSU. 
 Contribution: Performed experiments, analyzed flow cytometric data, performed statistical tests, and developed reports and presentation martials. 
 
-2005 - 2007      __Research Associate__, Research Associate, Clinical Research Investigative Studies Program (CRISP) and Critical Care Academics Associates Program (CCAAP), OHSU.
+2005 - 2007      __Research Associate__, Clinical Research Investigative Studies Program (CRISP) and Critical Care Academics Associates Program (CCAAP), OHSU.
 Contribution: Acquired clinical data from patient charts for ongoing studies and identified candidates for enrollment into qualifying research in the emergency department and the intensive care units.  
-
 
 
 ## Publications by year
