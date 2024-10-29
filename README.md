@@ -201,13 +201,13 @@ Contribution: Acquired clinical data from patient charts for ongoing studies and
 
 ## Attended Professional Conferences
 
-- **48th International Society of Andrology (ISA), Testis Workshop** - Switzerland, 2023
-- **47th International Society of Andrology (ISA), Testis Workshop** - California, USA, 2022
-- **39th Annual Symposium on Nonhuman Primate Models for AIDS** - Oregon, USA, 2022
-- **CYTO 2016: Annual Congress of the International Society for Advancement of Cytometry** - Seattle, WA, USA, 2016
-- **AAI Advanced Course in Immunology** - Boston, MA, USA, 2014
-- **29th Annual Symposium on Nonhuman Primate Models for AIDS** - Seattle, WA, USA, 2011
-- **28th Annual Symposium on Nonhuman Primate Models for AIDS** - New Orleans, LA, USA, 2010
+- 48th International Society of Andrology (ISA), Testis Workshop - Switzerland, 2023
+- 47th International Society of Andrology (ISA), Testis Workshop - California, USA, 2022
+- 39th Annual Symposium on Nonhuman Primate Models for AIDS - Oregon, USA, 2022
+- CYTO 2016: Annual Congress of the International Society for Advancement of Cytometry - Seattle, WA, USA, 2016
+- AAI Advanced Course in Immunology - Boston, MA, USA, 2014
+- 29th Annual Symposium on Nonhuman Primate Models for AIDS - Seattle, WA, USA, 2011
+- 28th Annual Symposium on Nonhuman Primate Models for AIDS - New Orleans, LA, USA, 2010
 
 
 [Follow @eisamahyari](https://twitter.com/eisamahyari)
