@@ -19,7 +19,7 @@
 - **B.S.** – Biology and Chemistry, Portland State University (PSU), Portland, OR  
   *(2002 – 2006)*
 
-## Research Statement
+## Summary Statement
 I am a computational biologist dedicated to translational biomedical research, integrating machine learning, immunology, and male reproductive biology to drive scientific innovation. My expertise includes leading diverse projects, coding, performing statistical analyses, and converting complex biological data into actionable insights alongside principal investigators and cross-disciplinary teams.
 
 In my current role in Dr. Don F. Conrad’s lab at OHSU, I investigate the genomics of reproduction and the genetics of infertility, primarily focusing on testis biology and multi-omics data. This aligns with my broader research interests, emphasizing integrating high-dimensional multi-omics datasets, performing cross-species analysis, and employing statistical inference and computational omics to support clinical and preclinical initiatives.
