@@ -1,33 +1,42 @@
 # Eisa Mahyari, Ph.D.
 
 ## Contact 
-[Google Scholar Citations](https://scholar.google.com/citations?user=vp6qss8AAAAJ&hl=en), [Research Gate](https://www.researchgate.net/profile/Eisa_Mahyari), [ORCID](https://orcid.org/0000-0002-5613-3131), [Github](https://eisascience.github.io/), [Twitter](https://twitter.com/eisamahyari), [Email](mailto:eisamahyari@gmail.com)
- 
+[Google Scholar Citations](https://scholar.google.com/citations?user=vp6qss8AAAAJ&hl=en) | [Research Gate](https://www.researchgate.net/profile/Eisa_Mahyari) | [ORCID](https://orcid.org/0000-0002-5613-3131) | [GitHub](https://eisascience.github.io/) | [Twitter](https://twitter.com/eisamahyari) | [Email](mailto:eisamahyari@gmail.com)
+
 ## Education
-__Post-Ph.D.__ - Mammalian Reproduction, OHSU-ONPRC, Division of Genetics. Prof. Don F. Conrad.
-__Ph.D.__ - Bioinformatics and Computational Biology, OHSU, Department of Medical Informatics and Clinical Epidemiology (DMICE), Division of Bioinformatics and Computational Biology (BCB), Portland, OR. “Robust and reproducible classification of rare cellular subsets/signatures (RCS) in single-cell technologies within a transfer learning framework.” [(doi:10.6083/NX9EZJ)](https://doi.org/10.6083/nx9ezj). Committee members: Shannon K. McWeeney Ph.D., David M. Lewinsohn MD./Ph.D., Michael Mooney Ph.D., Christina Zheng Ph.D., and Evan Lind Ph.D. (2013 – 2018). 
+- **Post-Ph.D.** – Mammalian Reproduction, Oregon Health & Science University (OHSU), Oregon National Primate Research Center (ONPRC), Division of Genetics  
+  *Advisor: Prof. Don F. Conrad*
+  
+- **Ph.D.** – Bioinformatics and Computational Biology, OHSU, Department of Medical Informatics and Clinical Epidemiology (DMICE), Division of Bioinformatics and Computational Biology (BCB), Portland, OR  
+  *Dissertation*: "Robust and reproducible classification of rare cellular subsets/signatures (RCS) in single-cell technologies within a transfer learning framework." [(doi:10.6083/NX9EZJ)](https://doi.org/10.6083/nx9ezj)  
+  *Committee*: Shannon K. McWeeney, Ph.D., David M. Lewinsohn, M.D./Ph.D., Michael Mooney, Ph.D., Christina Zheng, Ph.D., Evan Lind, Ph.D.  
+  *(2013 – 2018)*
 
-__M.S.__ - Biochemistry and Molecular Biology. Oregon Health and Science University (OHSU), Div. Environmental and Biomolecular Systems, Portland, OR. “A six-compartment Physiologically Based Pharmacokinetic (PBPK) Markov-chain Monte Carlo Model to simulate and quantify nicotine metabolism in human populations.” (2006 – 2008).
+- **M.S.** – Biochemistry and Molecular Biology, OHSU, Division of Environmental and Biomolecular Systems, Portland, OR  
+  *Thesis*: "A six-compartment Physiologically Based Pharmacokinetic (PBPK) Markov-chain Monte Carlo Model to simulate and quantify nicotine metabolism in human populations."  
+  *(2006 – 2008)*
 
-__B.S.__ - Biology and Chemistry double major. Portland State University (PSU), Portland, OR. (2002 – 2006)
+- **B.S.** – Biology and Chemistry, Portland State University (PSU), Portland, OR  
+  *(2002 – 2006)*
 
 ## Research Statement
-I am a computational biologist focused on multi-disciplinary translational biomedical research with expertise in machine learning, immunology, and male reproductive biology. 
-My day-to-day tasks are mostly researched focused, managing several ongoing projects and the team members involved in them. I oversee writing code, running statistical tests, and translating the biology to meaningful and actionable targets, with the support of the involved PIs. I consult and provide technical training and assistants to various labs and projects. I also mentor and guide prospective or current graduate students both on their work and career development. I am fascinated by how the immune system, throughout life, functions and influences the development, health, and death of an organism. Specifically, leveraging modern technology, computational power, and statistics to bring about new insight and information, as well as testing research hypotheses that were not previously possible. 
-Currently, I am focused on two domains of biomedical research split between the labs of Don F. Conrad Ph.D., and Benjamin Bimber Ph.D., and mainly work with single-cell transcriptomic and spatial-omics data. 
-In the Conrad Lab, broadly, we investigate the genetics of infertility and in the Bimber lab, we are focused on the immune system, often, T cells, in the context of several infectious diseases.
+I am a computational biologist with a multidisciplinary approach to translational biomedical research, integrating expertise in machine learning, immunology, and male reproductive biology. My work involves leading multiple projects, coding, conducting statistical analyses, and translating complex biology into actionable insights in collaboration with principal investigators and diverse research teams.
 
+I consult across various labs, providing technical training and mentorship to graduate students on both their projects and career trajectories. My fascination with the immune system drives my research on its role in organismal development, health, and aging, leveraging advanced computational methods to address previously inaccessible hypotheses. 
 
-### Domains of research expertise/interest
-- Reproductive Biology: Human, Rhesus, and Murine models. Specialized focus in testis biology and genetics of infertility. 
-- Immunology: Human, Rhesus, and Murine models. Specialized focus in adaptive immune system and specifically T cell biology and their TCRs.
-- Infectious Diseases: HIV/SIV, SARS-CoV2, ZIKA, Yellow Fever, Dengue, and Mycobacterium tuberculosis.
-- Computational science: Statistical inference (Machine learning) with specialized focus in Matrix and Tensor decomposition methods and Transfer learning. 
-- Mathematical modeling: with emphasis in Physiological Based Pharmacokinetic (PBPK) modeling with Markov Chain Monte-Carlo solutions of the dynamic models
-- Statistical data-science: with emphasis on transcriptomic expression data and genomics variant data processing.
-- Programming and scripting with R (dominantly), Python, and bash.
-- High-performance cloud computing with SLURM.
-- Project management and team leadership.
+Currently, I divide my research focus between the labs of Dr. Don F. Conrad and Dr. Benjamin Bimber at OHSU. In the Conrad Lab, I investigate the genetics of infertility, focusing on testis biology, while in the Bimber Lab, I analyze adaptive immunity, particularly T cell biology and receptor function, in contexts such as infectious diseases.
+
+### Domains of Research Expertise & Interest
+- **Reproductive Biology**: Testis biology and genetics of infertility in human, rhesus, and murine models.
+- **Immunology**: Focused on adaptive immunity, with an emphasis on T cell biology and T cell receptors (TCRs) across human, rhesus, and murine models.
+- **Infectious Diseases**: Research in HIV/SIV, SARS-CoV-2, ZIKA, Yellow Fever, Dengue, and Mycobacterium tuberculosis.
+- **Computational Science**: Statistical inference and machine learning, specializing in matrix/tensor decomposition and transfer learning.
+- **Large Language Models (LLMs)**: Applications and methodologies for LLMs in biomedical research.
+- **Mathematical Modeling**: Emphasis on Physiological Based Pharmacokinetic (PBPK) modeling, with Markov Chain Monte Carlo solutions for dynamic models.
+- **Statistical Data Science**: Expertise in processing transcriptomic expression data and genomic variant data.
+- **Programming and Scripting**: Advanced proficiency in R (primary), Python, and Bash.
+- **High-Performance Cloud Computing**: Experience with SLURM for scalable computational tasks.
+- **Project Management & Team Leadership**: Leading cross-functional teams and managing complex, multi-disciplinary projects.
 
 
 ## Professional Experience
@@ -38,6 +47,11 @@ In the Conrad Lab, broadly, we investigate the genetics of infertility and in th
 - Designed and implemented algorithms and statistical/machine learning models to drive discovery and interpretation using genomic, metagenomic, and other metadata; focused on single cell transcriptomics.
 - Managed and consulted on collaborations and projects
 - Provided technical (computational, statistical, programming, etc) training to researchers and students
+
+2022 - 2022   __Biostatistics & Computational Biology Consultant.__, Drug development & testing for nonalcoholic steatohepatitis (NASH) -  CytoDyn, USA. 
+- Designed and implemented analysis frameworks for multi-omics data, integrating statistical and machine learning approaches to support therapeutic hypotheses for NASH.
+- Conducted extensive quality control across clinical data, directly supporting clinical-stage program milestones.
+- Collaborated with cross-disciplinary teams to translate complex results into actionable insights, supporting drug treatment decisions for clinical trials.
 
 2018 - 2022   __Computational Biologist, Reproductive biology - RA__, Lab of Donald F. Conrad Ph.D. - Reproductive Genetics, ONPRC-OHSU.
 - Identified pathological genomic signatures that distinguished clinical differences in male infertility.
