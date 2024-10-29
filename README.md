@@ -28,7 +28,7 @@ I actively consult across labs, providing technical training and mentorship to g
 
 My career has been defined by consistent advancement and a focus on statistical, machine learning, and data analytic methods relevant to translational and clinical research. I have played a pivotal role in designing, implementing, and analyzing extensive research projects, combining wet lab and in silico methodologies to develop hypotheses and transform data into actionable outcomes. My work upholds rigorous quality control across various omics data types to ensure integrity and reproducibility. Through statistical consultations and analyses, I have contributed significantly to clinical study documentation, scientific publications, presentations, grants, and regulatory filings in both academic and industry settings.
 
-Currently, I am interested in leading and developing teams to create software, pipelines, and testing methodologies tailored for analyzing and translating complex biomedical data, supporting impactful translational research by integrating data types and applying robust statistical methodologies and computational tools.
+Currently, I am interested in leading and developing teams to create software, pipelines, and testing methodologies tailored for analyzing and translating complex biomedical data, supporting impactful translational research by integrating data types and applying robust statistical methodologies and computational tools. With the advent of large language models (LLMs), such tasks and aims can be rapidly scaled; thus my work includes fine-tuning, testing, and deploying specialized LLM for biomedical research. 
 
 ### Domains of Research Expertise & Interest
 - **Reproductive Biology**: Testis biology and genetics of infertility in human, rhesus, and murine models.
@@ -44,27 +44,46 @@ Currently, I am interested in leading and developing teams to create software, p
 
 
 ## Professional Experience
-2022 - Current   __Research Assistant Professor, Mammalian Reproduction__, Lab of Donald F. Conrad Ph.D. - Div. Genetics, ONPRC-OHSU.
 
-2018 - 2022   __Computational Biologist, Molecular Immunopathology - RA__, Lab of Benjamin N. Bimber Ph.D. - Primate Genetics, ONPRC-OHSU.
-- Generated hypotheses and translated research data to insights that improve the understanding of the immunopathology and identified genomic signatures of pathogen infection.
-- Designed and implemented algorithms and statistical/machine learning models to drive discovery and interpretation using genomic, metagenomic, and other metadata; focused on single cell transcriptomics.
-- Managed and consulted on collaborations and projects
-- Provided technical (computational, statistical, programming, etc) training to researchers and students
+### 2022 - Present  
+**Research Assistant Professor, Mammalian Reproduction**  
+_Lab of Donald F. Conrad, Ph.D. - Division of Genetics, ONPRC-OHSU_
 
-2022 - 2022   __Biostatistics & Computational Biology Consultant.__, Drug development & testing for nonalcoholic steatohepatitis (NASH) -  CytoDyn, USA. 
-- Designed and implemented analysis frameworks for multi-omics data, integrating statistical and machine learning approaches to support therapeutic hypotheses for NASH.
-- Conducted extensive quality control across clinical data, directly supporting clinical-stage program milestones.
-- Collaborated with cross-disciplinary teams to translate complex results into actionable insights, supporting drug treatment decisions for clinical trials.
+- Lead computational research projects to analyze high-dimensional multi-omics data, advancing translational research in testis biology and male infertility.
+- Oversee the design, development, and refinement of data pipelines, enabling the seamless integration and analysis of genomic, transcriptomic, and epigenomic data to identify biomarkers and improve understanding of reproductive genetics.
+- Mentor and supervise graduate students and lab members, providing training in statistical methodologies, computational tools, and project management to enhance team capability.
+- Collaborate cross-functionally with biologists, geneticists, and clinical researchers to translate complex data into actionable insights, driving forward research initiatives with a strategic focus on clinical relevance and innovation.
+- Managed collaborative, multi-institutional projects, coordinating resources and ensuring robust quality control in data integrity and analysis.
 
-2018 - 2022   __Computational Biologist, Reproductive biology - RA__, Lab of Donald F. Conrad Ph.D. - Reproductive Genetics, ONPRC-OHSU.
-- Identified pathological genomic signatures that distinguished clinical differences in male infertility.
-- Designed scRNASeq experiments to address specific hypotheses with mouse models.
-- Implemented and modified per need, current and emerging computational biology and bioinformatics algorithms
-- Collaborated with other scientists, physicians, and engineers focused on scientific discoveries and the invention of technologies.
+
+### 2018 - 2022  
+**Computational Biologist, Molecular Immunopathology - Research Associate**  
+_Lab of Benjamin N. Bimber, Ph.D. - Primate Genetics, ONPRC-OHSU_
+
+- Developed hypotheses and transformed complex immunogenomic data into key insights that advance the understanding of immunopathology and identify genomic signatures of pathogen infection, contributing to new therapeutic directions and identification of diagnostic biomarkers.
+- Designed and implemented pipelines, algorithms, and machine learning models for multi-omics analysis, especially single-cell transcriptomics, to uncover novel genetic markers and disease mechanisms.
+- Delivered comprehensive technical training in computational biology and machine learning to researchers and students, fostering expertise in data analysis, statistical programming, and project-based learning.
+
+### 2022  
+**Biostatistics & Computational Biology Consultant**  
+_Drug Development & Testing for Nonalcoholic Steatohepatitis (NASH) - CytoDyn, USA_
+
+- Established and executed scalable analysis frameworks for multi-omics clinical data, integrating machine learning and statistical methods to support drug development for NASH.
+- Conducted quality control on complex clinical datasets, ensuring data reliability and supporting milestones for clinical-stage programs.
+- Partnered with cross-functional teams, translating statistical findings into actionable clinical insights that guided drug development and trial decisions, thereby enhancing trial outcomes.
+
+### 2018 - 2022  
+**Computational Biologist, Reproductive Biology - Research Associate**  
+_Lab of Donald F. Conrad, Ph.D. - Reproductive Genetics, ONPRC-OHSU_
+
+- Identified genomic and transcriptomic signatures that differentiate clinical profiles in male infertility, utilizing scRNA-seq and integrative omics approaches.
+- Designed and implemented scRNA-seq experiments with murine models to investigate specific hypotheses, advancing translational applications in reproductive health.
+- Developed and customized bioinformatics algorithms, adapting emerging methodologies to lab-specific needs for data analysis, quality control, and reproducibility.
+- Collaborated closely with a multidisciplinary team of scientists, engineers, and clinicians to drive discoveries and innovation in the field of reproductive genetics.
 
 2016 - 2018      __Doctoral Candidate__, DMICE-BCB, OHSU. Developed novel machine learning framework for automated classification of rare cells in single-cell RNA-seq data.
 2013 - 2016      __Doctoral Student__, DMICE-BCB, OHSU. 
+
 Research Involvement:
 __Genome-based Bioinformatics__, Assessment of bioinformatics pipelines identifying genomic structural variants across several sequenced Gibbons. Lucia Carbone Ph.D.
 __Computational phenotyping in cancer cell lines__, CyTOF-based computational analysis of phenotypic heterogeneity in breast cancer-derived cell in the context of combinatory anti-cancer drug treatments to identify sensitive phenotypic subtypes within several breast cancer cell lines. Paul T. Spellman Ph.D.
@@ -79,6 +98,20 @@ Contribution: Acquired clinical data from patient charts for ongoing studies and
 
 
 ## Publications by year
+
++  __Mahyari, Eisa__, et al. "Rhesus Immune Reference Atlas (RIRA)" In review (2024).
+
++  __Mahyari, Eisa__, et al. "HLA-B27, AS, and AAU in a clinical cohort" In review (2024).
+
++ Mariya B. Shapiro, Tracy Ordonez, Shilpi Pandey, __Eisa Mahyari__, Kosiso Onwuzu, Jason Reed, Heather Sidener et al. "Immune perturbation following SHIV infection is greater in newborn macaques than in infants." JCI insight (2024).
+
++ Sujittra Khampang, Chanchao Lorthongpanich, Chuti Laowtammathron, Phatchanat Klaihmon, Sukanya Meesa, Wichuda Suksomboon, Nittaya Jiamvoraphong, __Eisa Mahyari__ et al. "The dynamic expression of YAP is essential for the development of male germ cells derived from human embryonic stem cells." Scientific Reports 14, no. 1 (2024): 15732.
+
++ Lillepea, Kristiina, Anna-Grete Juchnewitsch, Laura Kasak, Anu Valkna, Avirup Dutta, Kristjan Pomm, Olev Poolamets, __Eisa Mahyari__ et al. "Toward clinical exomes in diagnostics and management of male infertility." The American Journal of Human Genetics 111, no. 5 (2024): 877-895.
+
++ Juchnewitsch, Anna-Grete, Kristjan Pomm, Avirup Dutta, Erik Tamp, Anu Valkna, Kristiina Lillepea, __Eisa Mahyari__ et al. "Undiagnosed RASopathies in infertile men." Frontiers in endocrinology 15 (2024): 1312357.
+
++ __Mahyari, Eisa__, Katinka A. Vigh‐Conrad, Clément Daube, Ana C. Lima, Jingtao Guo, Douglas T. Carrell, James M. Hotaling, Kenneth I. Aston, and Donald F. Conrad. "The human infertility single‐cell testis atlas (HISTA): an interactive molecular scRNA‐Seq reference of the human testis." Andrology (2024).
 
 + Liina Nagirnaja, Alexandra M. Lopes, Wu-Lin Charng, Brian Miller, Rytis Stakaitis, Ieva Golubickaite, Alexandra Stendahl, Tianpengcheng Luan, Corinna Friedrich, __Eisa Mahyari__, [...], Kristian Almstrup, Kenneth I Aston, Donald F Conrad "Diverse monogenic subforms of human spermatogenic failure", Nature Communications, 13, 1, (2022). [link](https://doi.org/10.1038/s41467-022-35661-z)
 
