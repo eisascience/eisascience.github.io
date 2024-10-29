@@ -140,7 +140,9 @@ Contribution: Acquired clinical data from patient charts for ongoing studies and
 + Yoshinori Fukazawa, Haesun Park, Mark J. Cameron, Francois Lefebvre, Richard Lum, Noel Coombes, __Eisa Mahyari__, Shoko I. Hagen, Jin Young Bae, Marcelo Delos Reyes, Tonya Swanson, Alfred W. Legasse, Andrew Sylwester, Scott G. Hansen, Andrew T. Smith, Petra Stafova, Rebecca Shoemaker, Yuan Li, Kelli Oswald, Michael K. Axthelm, Adrian McDermott, Guido Ferrari, David C. Montefiori, Paul T. Edlefsen, Michael Piatak, Jeffrey D. Lifson, Rafick P. Sékaly, and Louis J. Picker.   “Lymph node T cell responses predict the efficacy of live attenuated SIV vaccines.” Nature Medicine, 2012. [NCBI link](https://www.ncbi.nlm.nih.gov/pubmed/22961108).
 
 ## Accepted Abstracts, Poster, & Talks
-+ Spring 2021   "The human infertility scRNA-seq testis atlas (HISTA)", Testis workshop 2021.
++ Fall 2024     “Uncovering distinct and shared immunophenotypic signatures in ankylosing spondylitis (AS) and acute anterior uveitis (AAU): Applications of Machine-learning & AI in OMICs”, OHSU Dept. Medicine, Annual Research Retreat.
++ Summer 2023   “Uncovering the Biological Signal in Rhesus Macaque Testis: A Comparative Analysis of FFPE Probe- based and Frozen Poly-A- mRNA Spatial-omics Technologies”, European Testis Workshop Conference, Switzerland.
++ Spring 2022   “The Human Infertility Single-cell Testis Atlas (HISTA): An interactive molecular scRNA-seq reference of the human testis”, American Testis Workshop Conference, USA.
 + Fall 2021     "Comparative single-cell analysis of biopsies identifies pathogenic mechanisms in Klinefelter Syndrome (KS)", National Centers for Translational Research in Reproduction and Infertility (NCTRI) Conference.
 + Fall 2021     "Rhesus Immunome Reference Atlas (RIRA): A multi-tissue single-cell landscape of immune cells", 38th Symposium on NHP Models for AIDS Conference. 
 + Spring 2021   "Rhesus Immunome Reference Atlas (RIRA): An intro to the multi-tissue single-cell landscape of immune cells", OHSU-VGTI Weekly Seminar.
@@ -150,21 +152,62 @@ Contribution: Acquired clinical data from patient charts for ongoing studies and
 + Spring 2015   “A Reinforcement Learning Model for Solving the Protein Folding Problem”, BioDSP talk, OHSU
 + Winter 2014   “Latent Dirichlet Allocation and Applications in Biology”, Bioinformatics Discussion for Students and Postdocs (BioDSP) talk, OHSU.
 
-## Teaching Experience
+## Teaching & Mentorship Experience
++ Summer 2022 Machine Learning and Single-cell OMICs analysis of with an international (France) master’s level graduate student. ONPRC.
++ Spring 2019 Bioinformatics & Computational Biology introductory training of a high-school student and a master’s level graduate student. ONPRC.
 + Spring 2017	Class TA & Mentored teaching, "Public and social-media engagement and the developing ‘avatar’ of an academic professional" for Research in Bioinformatics and Computational Biology with course professor: Eilis Boudreau M.D./Ph.D.
 + Spring 2016	Class TA and Mentored teaching, "Markov Models, Hidden Markov Models, and Markov Chain Mote Carlo Modeling" for Statistical methods with course professor: Shannon K. McWeeney Ph.D.
-+ Spring 2015	Class TA for Statistical methods with course professor: Shannon K. McWeeney Ph.D.
++ Spring 2015	Class TA for Statistical Methods with course professor Shannon K. McWeeney Ph.D.
 
-## MCL Research Products
-+ [“The Human Infertility Single-cell Testis Atlas (HISTA)”](https://conradlab.shinyapps.io/HISTA/). A web-based single-cell atlas that enables exploration and hypothesis testing of testis-specific cell types and genomic mechanisms in the context of infertility.
-+ [“TCR Enrichment Analysis (TEA)”](https://github.com/eisascience/Wong-Gold-Lewinsohn). A web-based visualization interface to evaluate differential enrichment of tissue-specific TCR clonotype. 
+## Software & Research Products
+
++ [“The Human Infertility Single-cell Testis Atlas (HISTA)”](https://conradlab.shinyapps.io/HISTA/): A web-based single-cell atlas that enables exploration and hypothesis testing of testis-specific cell types and genomic mechanisms in the context of infertility.
+
++ [“Spatial-Omics Testis Atlas (SPATA) Suite”](https://conradlab.shinyapps.io/SPATA/): A suite of tools to explore testis spatial and single-cell transcriptomic data across multiple species, facilitating comparative analysis and cross-species hypothesis generation in testis biology.
+
++ [“Mouse Spatial-Omics Testis Atlas (MoSpaTA)”](https://conradlab.shinyapps.io/MoSpaTA/): Includes spatial data from various technologies like StereoSeq, Curio, and 10X Genomics to provide a comprehensive view of mouse testis at different developmental stages.
+
++ [“Mouse Developmental Single-cell Testis Atlas (MoDSTA)”](https://conradlab.shinyapps.io/MoDSTA/): A curated atlas of mouse testis development from embryonic stages to adulthood, supporting developmental and reproductive research.
+
++ [“Rhesus macaque Spatial-Omics Testis Atlas (RheSpaTA)”](https://conradlab.shinyapps.io/RheSpaTA/): A platform housing spatial data from rhesus testis, enabling detailed investigation into non-human primate testis biology.
+
++ [“homo Sapian Spatial-Omics Testis Atlas (SapSpaTA)”](https://conradlab.shinyapps.io/SapSpaTA/): A spatial-omics dataset for human testis, offering insights into gene expression patterns and cell type-specific information related to human reproductive health.
+
++ [“ShinySDA R Package”](https://github.com/eisascience/ShinySDA): An R-based Shiny application for processing, browsing, and visualizing Sparse Decomposition of Arrays (SDA) objects, allowing real-time analysis of high-dimensional data.
+
++ [“Rhesus Immunome Reference Atlas (RIRA) R Package”](https://github.com/eisascience/RIRA): A multi-tissue single-cell RNA-seq atlas from rhesus macaque immune cells, complete with pipelines for cell type annotation and data integration for cross-species research.
+
++ [“Single-cell Custom Functions (scCustFx) R Package”](https://github.com/eisascience/scCustFx): A library of analytical and visualization functions for single-cell and spatial omics analysis, supporting custom workflows in R.
+
++ [“CellMembrane R Package”](https://github.com/eisascience/CellMembrane): A toolkit of high-level wrappers and visualization tools for single-cell omics data processing and analysis designed for fault-tolerant pipelines and enhanced QC visualizations.
+
++ [“TCR Enrichment Analysis (TEA)”](https://github.com/eisascience/Wong-Gold-Lewinsohn): A web-based visualization interface to evaluate differential enrichment of tissue-specific TCR clonotype.
+
 
 
 ## Awards and Honors
-+ 2021 - 2022     NIH LRP - Contraception and Infertility Research.
++ 2024 - 2026     NIH LRP - Contraception and Infertility through the National Institute of Child Health and Human Development (NICHD)
++ 2021 - 2023     NIH LRP - Contraception and Infertility through the National Institute of Child Health and Human Development (NICHD)
 + 2014 – 2016     Pulmonary/Critical Care Medicine. NIH T32 Grant, David Lewinsohn M.D./Ph.D., OHSU (5T32HL083808-06/07).
 + 2013 – 2014     Knight Cancer Institute, pre-doctoral funding, OHSU.
 + 2013 – 2014     Molecular Microbiology and Immunology, pre-doctoral funding, Paul Spellman Ph.D., OHSU.
+
+
+## Professional Affiliations
+
+- [International Society for Computational Biology (ISCB)](https://www.iscb.org)
+- [American Association of Immunologists (AAI)](https://www.aai.org)
+- [American Society of Andrology (ASA)](https://www.andrologysociety.org)
+
+## Attended Professional Conferences
+
+- **48th International Society of Andrology (ISA), Testis Workshop** - Switzerland, 2023
+- **47th International Society of Andrology (ISA), Testis Workshop** - California, USA, 2022
+- **39th Annual Symposium on Nonhuman Primate Models for AIDS** - Oregon, USA, 2022
+- **CYTO 2016: Annual Congress of the International Society for Advancement of Cytometry** - Seattle, WA, USA, 2016
+- **AAI Advanced Course in Immunology** - Boston, MA, USA, 2014
+- **29th Annual Symposium on Nonhuman Primate Models for AIDS** - Seattle, WA, USA, 2011
+- **28th Annual Symposium on Nonhuman Primate Models for AIDS** - New Orleans, LA, USA, 2010
 
 
 [Follow @eisamahyari](https://twitter.com/eisamahyari)
