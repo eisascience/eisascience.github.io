@@ -166,8 +166,5 @@ Contribution: Acquired clinical data from patient charts for ongoing studies and
 + 2013 – 2014     Knight Cancer Institute, pre-doctoral funding, OHSU.
 + 2013 – 2014     Molecular Microbiology and Immunology, pre-doctoral funding, Paul Spellman Ph.D., OHSU.
 
-## Associations and Memberships
-+ Chair, Communications subcommittee, VGTI Diversity Equity and Inclusion (DEI) Committee
-+ Member, VGTI Scientific Retreat committee
 
 [Follow @eisamahyari](https://twitter.com/eisamahyari)
