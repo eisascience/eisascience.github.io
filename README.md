@@ -85,23 +85,14 @@ Research Involvement:
 
 + __Computational phenotyping in cancer cell lines__, CyTOF-based computational analysis of phenotypic heterogeneity in breast cancer-derived cell in the context of combinatory anti-cancer drug treatments to identify sensitive phenotypic subtypes within several breast cancer cell lines. Paul T. Spellman Ph.D.
 
-+ __Computational immunophenotyping__, CyTOF-based computational immunophenotypic analysis of a unique population of tuberculosis (TB)-recognizing T-cells known as mucosal associated invariant T (MAIT) cells. David M. Lewinsohn M.D./Ph.D.
++ __Computational immunophenotyping__, CyTOF-based computational immunophenotypic analysis of a unique population of tuberculosis (TB)-recognizing T-cells known as mucosal-associated invariant T (MAIT) cells. David M. Lewinsohn M.D./Ph.D.
 
 2008 - 2012      __Sr. Research Associate__, Louis Picker M.D., Vaccine & Gene Therapy Institute (VGTI), OHSU. 
-Contribution: Performed experiments, analyzed flow cytometric data, performed statistical tests, and developed reports and presentation martials. 
+Contribution: Performed experiments, analyzed flow cytometric data, performed statistical tests and developed reports and presentation materials. 
 
 2005 - 2007      __Research Associate__, Clinical Research Investigative Studies Program (CRISP) and Critical Care Academics Associates Program (CCAAP), OHSU.
 Contribution: Acquired clinical data from patient charts for ongoing studies and identified candidates for enrollment into qualifying research in the emergency department and the intensive care units.  
 
-## Personal & Professional Attributes
-
-- Highly strategic; excellent business acumen
-- Collaborative leadership style
-- Entrepreneurial; thrives in a fast-paced environment
-- Tactical; able to execute at the ground level
-- Results-oriented problem-solver
-- Mission-driven
-- Integrity; trustworthy; respectful
 
 ## Personal & Professional Attributes
 
@@ -109,7 +100,7 @@ Contribution: Acquired clinical data from patient charts for ongoing studies and
 - **Collaborative Leadership**: Proven leader with a collaborative approach, fostering teamwork across multidisciplinary environments.
 - **Entrepreneurial Mindset**: Resourceful and adaptable; thrives in fast-paced, dynamic settings and embraces new challenges with innovative solutions.
 - **Hands-On and Tactical**: Skilled in both strategic planning and hands-on execution, with a focus on translating high-level goals into actionable results.
-- **Results-Oriented Problem Solver**: Dedicated to achieving measurable outcomes through effective problem-solving and a focus on continuous improvement.
+- **Results-oriented Problem Solver**: Dedicated to achieving measurable outcomes through effective problem-solving and a focus on continuous improvement.
 - **Mission-Driven**: Passionate about advancing science and health through meaningful, mission-aligned contributions.
 - **Integrity and Trustworthiness**: Upholds the highest standards of integrity, respect, and reliability in professional and personal interactions.
 
