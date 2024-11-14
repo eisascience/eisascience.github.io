@@ -3,21 +3,7 @@
 ## Contact 
 [Google Scholar Citations](https://scholar.google.com/citations?user=vp6qss8AAAAJ&hl=en) | [Research Gate](https://www.researchgate.net/profile/Eisa_Mahyari) | [ORCID](https://orcid.org/0000-0002-5613-3131) | [GitHub](https://eisascience.github.io/) | [Twitter](https://twitter.com/eisamahyari) | [Email](mailto:eisamahyari@gmail.com)
 
-## Education
-- **Post-Ph.D.** – Mammalian Reproduction, Oregon Health & Science University (OHSU), Oregon National Primate Research Center (ONPRC), Division of Genetics  
-  *Advisor: Prof. Don F. Conrad*
-  
-- **Ph.D.** – Bioinformatics and Computational Biology, OHSU, Department of Medical Informatics and Clinical Epidemiology (DMICE), Division of Bioinformatics and Computational Biology (BCB), Portland, OR  
-  *Dissertation*: "Robust and reproducible classification of rare cellular subsets/signatures (RCS) in single-cell technologies within a transfer learning framework." [(doi:10.6083/NX9EZJ)](https://doi.org/10.6083/nx9ezj)  
-  *Committee*: Shannon K. McWeeney, Ph.D., David M. Lewinsohn, M.D./Ph.D., Michael Mooney, Ph.D., Christina Zheng, Ph.D., Evan Lind, Ph.D.  
-  *(2013 – 2018)*
 
-- **M.S.** – Biochemistry and Molecular Biology, OHSU, Division of Environmental and Biomolecular Systems, Portland, OR  
-  *Thesis*: "A six-compartment Physiologically Based Pharmacokinetic (PBPK) Markov-chain Monte Carlo Model to simulate and quantify nicotine metabolism in human populations."  
-  *(2006 – 2008)*
-
-- **B.S.** – Biology and Chemistry, Portland State University (PSU), Portland, OR  
-  *(2002 – 2006)*
 
 ## Summary Statement
 I am a computational biologist driven by applied machine learning and AI for translational biomedical research. Broadly, I specialize in immunology, infectious diseases, and reproductive biology. I enjoy leading diverse projects, coding, performing statistical analyses, and converting complex biological data into actionable insights alongside principal investigators and cross-disciplinary teams. From a biological perspective, 
@@ -63,7 +49,6 @@ _Lab of Donald F. Conrad, Ph.D. - Division of Genetics, ONPRC-OHSU_
 - Collaborate cross-functionally with biologists, geneticists, and clinical researchers to translate complex data into actionable insights, driving forward research initiatives with a strategic focus on clinical relevance and innovation.
 - Managed collaborative, multi-institutional projects, coordinating resources and ensuring robust quality control in data integrity and analysis.
 - Collaborated with cross-functional teams, including R&D, IT, engineering, veterinarians, and clinicians.
-- 
 
 
 ### 2018 - 2022  
@@ -118,7 +103,32 @@ Contribution: Acquired clinical data from patient charts for ongoing studies and
 - Mission-driven
 - Integrity; trustworthy; respectful
 
+## Personal & Professional Attributes
 
+- **Strategic and Business-Oriented**: Strong strategic thinker with excellent business acumen, aligning initiatives with organizational goals to drive impactful outcomes.
+- **Collaborative Leadership**: Proven leader with a collaborative approach, fostering teamwork across multidisciplinary environments.
+- **Entrepreneurial Mindset**: Resourceful and adaptable; thrives in fast-paced, dynamic settings and embraces new challenges with innovative solutions.
+- **Hands-On and Tactical**: Skilled in both strategic planning and hands-on execution, with a focus on translating high-level goals into actionable results.
+- **Results-Oriented Problem Solver**: Dedicated to achieving measurable outcomes through effective problem-solving and a focus on continuous improvement.
+- **Mission-Driven**: Passionate about advancing science and health through meaningful, mission-aligned contributions.
+- **Integrity and Trustworthiness**: Upholds the highest standards of integrity, respect, and reliability in professional and personal interactions.
+
+
+## Education
+- **Post-Ph.D.** – Mammalian Reproduction, Oregon Health & Science University (OHSU), Oregon National Primate Research Center (ONPRC), Division of Genetics  
+  *Advisor: Prof. Don F. Conrad*
+  
+- **Ph.D.** – Bioinformatics and Computational Biology, OHSU, Department of Medical Informatics and Clinical Epidemiology (DMICE), Division of Bioinformatics and Computational Biology (BCB), Portland, OR  
+  *Dissertation*: "Robust and reproducible classification of rare cellular subsets/signatures (RCS) in single-cell technologies within a transfer learning framework." [(doi:10.6083/NX9EZJ)](https://doi.org/10.6083/nx9ezj)  
+  *Committee*: Shannon K. McWeeney, Ph.D., David M. Lewinsohn, M.D./Ph.D., Michael Mooney, Ph.D., Christina Zheng, Ph.D., Evan Lind, Ph.D.  
+  *(2013 – 2018)*
+
+- **M.S.** – Biochemistry and Molecular Biology, OHSU, Division of Environmental and Biomolecular Systems, Portland, OR  
+  *Thesis*: "A six-compartment Physiologically Based Pharmacokinetic (PBPK) Markov-chain Monte Carlo Model to simulate and quantify nicotine metabolism in human populations."  
+  *(2006 – 2008)*
+
+- **B.S.** – Biology and Chemistry, Portland State University (PSU), Portland, OR  
+  *(2002 – 2006)*
 
 ## Publications by year
 
