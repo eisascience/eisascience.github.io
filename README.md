@@ -3,6 +3,15 @@
 ## Contact 
 [Google Scholar Citations](https://scholar.google.com/citations?user=vp6qss8AAAAJ&hl=en) | [Research Gate](https://www.researchgate.net/profile/Eisa_Mahyari) | [ORCID](https://orcid.org/0000-0002-5613-3131) | [GitHub](https://eisascience.github.io/) | [Twitter](https://twitter.com/eisamahyari) | [Email](mailto:eisamahyari@gmail.com)
 
+| **CORE SKILLS**              | **Management**                          | **Statistics & Computer Science**            | **Biology**                          |
+|------------------------------|-----------------------------------------|----------------------------------------------|--------------------------------------|
+|                              | - Project coordination                  | - Machine Learning & AI                      | - Single-cell & spatial OMICs        |
+|                              | - Operational & cross-functional leadership | - Fine-tuning of LLM on specialized domains | - Translational research             |
+|                              | - Multi-disciplinary collaboration      | - Software engineering                       | - Reproduction & infertility         |
+|                              | - Data-driven strategic planning & consultation | - Cloud computing (Slurm, AWS, Google) | - Immunology & infectious diseases   |
+|                              | - Budgeting & resource allocation       |                                              | - HIV, MTb, Yellow Fever, Dengue, Zika, CMV, and SARS-CoV-2 |
+|                              | - Stakeholder communication             |                                              | - PBPK modeling & pharmacokinetics   |
+|                              | - Grant writing                         |                                              |                                      |
 
 
 ## Summary Statement
@@ -15,18 +24,13 @@ My career has been defined by consistent advancement and a focus on statistical,
 Currently, I am interested in leading and developing teams to create software, pipelines, and testing methodologies tailored for analyzing and translating complex biomedical data, supporting impactful translational research by integrating data types, and applying robust statistical methodologies and computational tools. With the advent of large language models (LLMs), such tasks and aims can be rapidly scaled; thus, my research includes fine-tuning, testing, and deploying specialized LLM for biomedical research. 
 
 ### Domains of Research Expertise & Interest
-- **Immunology**: Focused on adaptive immunity, with an emphasis on T cell biology and T cell receptors (TCRs) across human, rhesus, and murine models.
+- **Immunology**: Focused on adaptive immunity, emphasizing T cell biology and T cell receptors (TCRs) across human, rhesus, and murine models.
 - **Sex/Gender Biased Immune function**: Investigating the X chromosome and the vast and complex genes it codes, many of which are related to immune functions. Certain human diseases that alter X-chromosome expression, such as Klinefelter's syndrome, are potential models of investigating these genes. 
 - **Reproductive Biology**: Testis biology and genetics of infertility in human, rhesus, and murine models.
 - **Infectious Diseases**: Research in HIV/SIV, SARS-CoV-2, ZIKA, Yellow Fever, Dengue, and Mycobacterium tuberculosis.
-- **Genomics**: Genome assembly and structural variation analysis.
 - **Computational Science**: Statistical inference and machine learning, specializing in matrix/tensor decomposition and transfer learning.
 - **Large Language Models (LLMs)**: Applications and methodologies for LLMs in biomedical research.
-- **Mathematical Modeling**: Emphasis on Physiological Based Pharmacokinetic (PBPK) modeling, with Markov Chain Monte Carlo solutions for dynamic models.
-- **Statistical Data Science**: Expertise in processing transcriptomic expression data and genomic variant data.
-- **Programming and Scripting**: Advanced proficiency in R (primary), Python, and Bash.
-- **High-Performance Cloud Computing**: Experience with SLURM for scalable computational tasks.
-- **Project Management & Team Leadership**: Leading cross-functional teams and managing complex, multi-disciplinary projects.
+
 
 ## Technical skills
 - **Bioinformatics**: Proficiency with tools like Bowtie, BLAST, BWA, GATK, SAMtools, STAR, and HTSeq for DNA/RNA alignment, variant calling, and transcript quantification.
@@ -35,7 +39,9 @@ Currently, I am interested in leading and developing teams to create software, p
 - **High-throughput data analysis**: Proficient in next-generation sequencing (NGS) and multi-omics data, including RNA-seq, whole-genome sequencing (WGS), whole-exome sequencing (WES), ChIP-seq, ATAC-seq, single-cell, and spatial sequencing.
 - **Data visualization**: Skilled in creating publication-quality and interactive data visualizations using ggplot2, Matplotlib, Plotly, and Shiny, along with automated and reproducible reporting in HTML and R Markdown.
 - **Data science and machine learning**: Competent in supervised and unsupervised machine learning techniques (e.g., random forests, SVM, clustering, dimensionality reduction) and deep learning frameworks (e.g., TensorFlow, PyTorch) for predictive modeling and data interpretation.
+- **Mathematical Modeling**: Sytems Biology and Physiological Based Pharmacokinetic (PBPK) modeling with applied Markov Chain Monte Carlo.
 - **Advanced statistical and computational methods**: Proficient in Bayesian inference, survival analysis, mixed-effects modeling, differential expression analysis, dimensionality reduction (PCA, UMAP, t-SNE, SDA), and advanced regularization techniques, enabling complex biological insights from high-dimensional datasets.
+
 
 ## Professional Experience
 
