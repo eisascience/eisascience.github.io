@@ -3,15 +3,17 @@
 ## Contact 
 [Google Scholar Citations](https://scholar.google.com/citations?user=vp6qss8AAAAJ&hl=en) | [Research Gate](https://www.researchgate.net/profile/Eisa_Mahyari) | [ORCID](https://orcid.org/0000-0002-5613-3131) | [GitHub](https://eisascience.github.io/) | [Twitter](https://twitter.com/eisamahyari) | [Email](mailto:eisamahyari@gmail.com)
 
-| **CORE SKILLS**              | **Management**                          | **Statistics & Computer Science**            | **Biology**                          |
-|------------------------------|-----------------------------------------|----------------------------------------------|--------------------------------------|
-|                              | - Project coordination                  | - Machine Learning & AI                      | - Single-cell & spatial OMICs        |
-|                              | - Operational & cross-functional leadership | - Fine-tuning of LLM on specialized domains | - Translational research             |
-|                              | - Multi-disciplinary collaboration      | - Software engineering                       | - Reproduction & infertility         |
-|                              | - Data-driven strategic planning & consultation | - Cloud computing (Slurm, AWS, Google) | - Immunology & infectious diseases   |
-|                              | - Budgeting & resource allocation       |                                              | - HIV, MTb, Yellow Fever, Dengue, Zika, CMV, and SARS-CoV-2 |
-|                              | - Stakeholder communication             |                                              | - PBPK modeling & pharmacokinetics   |
-|                              | - Grant writing                         |                                              |                                      |
+## CORE SKILLS
+
+| **Management**                          | **Statistics & Computer Science**            | **Biology**                          |
+|-----------------------------------------|----------------------------------------------|--------------------------------------|
+| - Project coordination                  | - Machine Learning & AI                      | - Single-cell & spatial OMICs        |
+| - Operational & cross-functional leadership | - Fine-tuning of LLM on specialized domains | - Translational research             |
+| - Multi-disciplinary collaboration      | - Software engineering                       | - Reproduction & infertility         |
+| - Data-driven strategic planning & consultation | - Cloud computing (Slurm, AWS, Google) | - Immunology & infectious diseases   |
+| - Budgeting & resource allocation       |                                              | - HIV, MTb, Yellow Fever, Dengue, Zika, CMV, and SARS-CoV-2 |
+| - Stakeholder communication             |                                              | - PBPK modeling & pharmacokinetics   |
+| - Grant writing                         |                                              |                                      |
 
 
 ## Summary Statement
