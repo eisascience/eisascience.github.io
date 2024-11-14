@@ -20,20 +20,20 @@
   *(2002 – 2006)*
 
 ## Summary Statement
-I am a computational biologist dedicated to translational biomedical research, integrating machine learning, immunology, and male reproductive biology to drive scientific innovation. My expertise includes leading diverse projects, coding, performing statistical analyses, and converting complex biological data into actionable insights alongside principal investigators and cross-disciplinary teams.
+I am a computational biologist driven by applied machine learning and AI for translational biomedical research. Broadly, I specialize in immunology, infectious diseases, and reproductive biology. I enjoy leading diverse projects, coding, performing statistical analyses, and converting complex biological data into actionable insights alongside principal investigators and cross-disciplinary teams. From a biological perspective, 
 
-In my current role in Dr. Don F. Conrad’s lab at OHSU, I investigate the genomics of reproduction and the genetics of infertility, primarily focusing on testis biology and multi-omics data. This aligns with my broader research interests, emphasizing integrating high-dimensional multi-omics datasets, performing cross-species analysis, and employing statistical inference and computational omics to support clinical and preclinical initiatives.
+As R. Assistant Professor at OHSU/ONPRC, I deploy computational pipelines, develop interactive data visualization platforms, secure and manage research funding through competitive grants, and lead the strategic development of AI/ML solutions for research. My research in this role focuses on integrating high-dimensional multi-omics datasets, performing cross-species analysis, and employing statistical inference and computational omics to support clinical and preclinical initiatives. Furthermore, I actively consult across labs, providing technical training and mentorship to graduate students and guiding their research and career development. 
 
-I actively consult across labs, providing technical training and mentorship to graduate students guiding their research and career development. I am passionate about exploring the immune system's role in organismal health, development, and aging. By harnessing advanced computational methods, I aim to address research questions that were previously inaccessible.
+My career has been defined by consistent advancement and a focus on statistical, machine learning, and data analytic methods relevant to translational and clinical research. I have played a pivotal role in designing, implementing, and analyzing extensive research projects, combining wet lab and in silico methodologies to develop hypotheses and transform data into actionable outcomes. My work upholds rigorous quality control across various omics data types to ensure integrity and reproducibility. Through statistical consultations and analyses, I have contributed significantly to clinical study documentation, scientific publications, presentations, grants, and regulatory filings in academic and industry settings.
 
-My career has been defined by consistent advancement and a focus on statistical, machine learning, and data analytic methods relevant to translational and clinical research. I have played a pivotal role in designing, implementing, and analyzing extensive research projects, combining wet lab and in silico methodologies to develop hypotheses and transform data into actionable outcomes. My work upholds rigorous quality control across various omics data types to ensure integrity and reproducibility. Through statistical consultations and analyses, I have contributed significantly to clinical study documentation, scientific publications, presentations, grants, and regulatory filings in both academic and industry settings.
-
-Currently, I am interested in leading and developing teams to create software, pipelines, and testing methodologies tailored for analyzing and translating complex biomedical data, supporting impactful translational research by integrating data types and applying robust statistical methodologies and computational tools. With the advent of large language models (LLMs), such tasks and aims can be rapidly scaled; thus my work includes fine-tuning, testing, and deploying specialized LLM for biomedical research. 
+Currently, I am interested in leading and developing teams to create software, pipelines, and testing methodologies tailored for analyzing and translating complex biomedical data, supporting impactful translational research by integrating data types, and applying robust statistical methodologies and computational tools. With the advent of large language models (LLMs), such tasks and aims can be rapidly scaled; thus, my research includes fine-tuning, testing, and deploying specialized LLM for biomedical research. 
 
 ### Domains of Research Expertise & Interest
-- **Reproductive Biology**: Testis biology and genetics of infertility in human, rhesus, and murine models.
 - **Immunology**: Focused on adaptive immunity, with an emphasis on T cell biology and T cell receptors (TCRs) across human, rhesus, and murine models.
+- **Sex/Gender Biased Immune function**: Investigating the X chromosome and the vast and complex genes it codes, many of which are related to immune functions. Certain human diseases that alter X-chromosome expression, such as Klinefelter's syndrome, are potential models of investigating these genes. 
+- **Reproductive Biology**: Testis biology and genetics of infertility in human, rhesus, and murine models.
 - **Infectious Diseases**: Research in HIV/SIV, SARS-CoV-2, ZIKA, Yellow Fever, Dengue, and Mycobacterium tuberculosis.
+- **Genomics**: Genome assembly and structural variation analysis.
 - **Computational Science**: Statistical inference and machine learning, specializing in matrix/tensor decomposition and transfer learning.
 - **Large Language Models (LLMs)**: Applications and methodologies for LLMs in biomedical research.
 - **Mathematical Modeling**: Emphasis on Physiological Based Pharmacokinetic (PBPK) modeling, with Markov Chain Monte Carlo solutions for dynamic models.
@@ -42,6 +42,14 @@ Currently, I am interested in leading and developing teams to create software, p
 - **High-Performance Cloud Computing**: Experience with SLURM for scalable computational tasks.
 - **Project Management & Team Leadership**: Leading cross-functional teams and managing complex, multi-disciplinary projects.
 
+## Technical skills
+- **Bioinformatics**: Proficiency with tools like Bowtie, BLAST, BWA, GATK, SAMtools, STAR, and HTSeq for DNA/RNA alignment, variant calling, and transcript quantification.
+- **Cloud computing and HPC**: Experience with high-performance computing (HPC) environments and cloud platforms such as AWS, Google Cloud Platform (GCP), and Azure, utilizing tools like Docker, Conda, and Slurm for scalable data processing and pipeline deployment.
+- **Programming languages**: Expertise in R, Python, and Bash scripting for data analysis, automation, and pipeline development.
+- **High-throughput data analysis**: Proficient in next-generation sequencing (NGS) and multi-omics data, including RNA-seq, whole-genome sequencing (WGS), whole-exome sequencing (WES), ChIP-seq, ATAC-seq, single-cell, and spatial sequencing.
+- **Data visualization**: Skilled in creating publication-quality and interactive data visualizations using ggplot2, Matplotlib, Plotly, and Shiny, along with automated and reproducible reporting in HTML and R Markdown.
+- **Data science and machine learning**: Competent in supervised and unsupervised machine learning techniques (e.g., random forests, SVM, clustering, dimensionality reduction) and deep learning frameworks (e.g., TensorFlow, PyTorch) for predictive modeling and data interpretation.
+- **Advanced statistical and computational methods**: Proficient in Bayesian inference, survival analysis, mixed-effects modeling, differential expression analysis, dimensionality reduction (PCA, UMAP, t-SNE, SDA), and advanced regularization techniques, enabling complex biological insights from high-dimensional datasets.
 
 ## Professional Experience
 
@@ -54,6 +62,8 @@ _Lab of Donald F. Conrad, Ph.D. - Division of Genetics, ONPRC-OHSU_
 - Mentor and supervise graduate students and lab members, providing training in statistical methodologies, computational tools, and project management to enhance team capability.
 - Collaborate cross-functionally with biologists, geneticists, and clinical researchers to translate complex data into actionable insights, driving forward research initiatives with a strategic focus on clinical relevance and innovation.
 - Managed collaborative, multi-institutional projects, coordinating resources and ensuring robust quality control in data integrity and analysis.
+- Collaborated with cross-functional teams, including R&D, IT, engineering, veterinarians, and clinicians.
+- 
 
 
 ### 2018 - 2022  
@@ -79,7 +89,7 @@ _Lab of Donald F. Conrad, Ph.D. - Reproductive Genetics, ONPRC-OHSU_
 - Identified genomic and transcriptomic signatures that differentiate clinical profiles in male infertility, utilizing scRNA-seq and integrative omics approaches.
 - Designed and implemented scRNA-seq experiments with murine models to investigate specific hypotheses, advancing translational applications in reproductive health.
 - Developed and customized bioinformatics algorithms, adapting emerging methodologies to lab-specific needs for data analysis, quality control, and reproducibility.
-- Collaborated closely with a multidisciplinary team of scientists, engineers, and clinicians to drive discoveries and innovation in the field of reproductive genetics.
+- Collaborated closely with a multidisciplinary team of scientists, engineers, and clinicians to drive discoveries and innovation in reproductive genetics.
 
 2016 - 2018      __Doctoral Candidate__, DMICE-BCB, OHSU. Developed novel machine learning framework for automated classification of rare cells in single-cell RNA-seq data.
 2013 - 2016      __Doctoral Student__, DMICE-BCB, OHSU. 
@@ -97,6 +107,17 @@ Contribution: Performed experiments, analyzed flow cytometric data, performed st
 
 2005 - 2007      __Research Associate__, Clinical Research Investigative Studies Program (CRISP) and Critical Care Academics Associates Program (CCAAP), OHSU.
 Contribution: Acquired clinical data from patient charts for ongoing studies and identified candidates for enrollment into qualifying research in the emergency department and the intensive care units.  
+
+## Personal & Professional Attributes
+
+- Highly strategic; excellent business acumen
+- Collaborative leadership style
+- Entrepreneurial; thrives in a fast-paced environment
+- Tactical; able to execute at the ground level
+- Results-oriented problem-solver
+- Mission-driven
+- Integrity; trustworthy; respectful
+
 
 
 ## Publications by year
