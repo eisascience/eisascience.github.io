@@ -10,10 +10,10 @@
 | - Project coordination                  | - Machine Learning & AI                      | - Single-cell & spatial OMICs        |
 | - Operational & cross-functional leadership | - Fine-tuning of LLM on specialized domains | - Translational research             |
 | - Multi-disciplinary collaboration      | - Software engineering                       | - Reproduction & infertility         |
-| - Data-driven strategic planning & consultation | - Cloud computing (Slurm, AWS, Google) | - Immunology & infectious diseases   |
-| - Budgeting & resource allocation       |                                              | - HIV, MTb, Yellow Fever, Dengue, Zika, CMV, and SARS-CoV-2 |
-| - Stakeholder communication             |                                              | - PBPK modeling & pharmacokinetics   |
-| - Grant writing                         |                                              |                                      |
+| - Data-driven strategic planning & consultation | - Cloud computing (Slurm, AWS, Google) | - Immunology, autoimmunity, & Gender-bias of immune function   |
+| - Budgeting & resource allocation       | - Biostatistics                                 | - Hormonal regulation of immune function |
+| - Stakeholder communication             | - Statistical & mathematical modeling  | - Infectious diseases HIV, MTb, Yellow Fever, Dengue, Zika, CMV, and SARS-CoV-2  |
+| - Grant writing                         | - Translational & clinical trial data analytics    | - PBPK modeling & pharmacokinetics                       |
 
 
 ## Summary Statement
