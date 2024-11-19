@@ -32,6 +32,7 @@ Currently, I am interested in leading and developing teams to create software, p
 - **Reproductive Biology**: Testis biology and genetics of infertility in human, rhesus, and murine models.
 - **Infectious Diseases**: Research in HIV/SIV, SARS-CoV-2, ZIKA, Yellow Fever, Dengue, and Mycobacterium tuberculosis.
 - **Computational Science**: Statistical inference and machine learning, specializing in matrix/tensor decomposition and transfer learning.
+- **Oncology**: Identification of immune checkpoints, regulatory molecules, and biomarkers in diagnosis, prophylaxis, and oncological treatments.
 - **Large Language Models (LLMs)**: Applications and methodologies for LLMs in biomedical research.
 
 
