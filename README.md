@@ -39,8 +39,8 @@ Currently, I am interested in leading and developing teams to create software, p
 ## Technical skills
 - **Bioinformatics**: Proficiency with tools like Bowtie, BLAST, BWA, GATK, SAMtools, STAR, and HTSeq for DNA/RNA alignment, variant calling, and transcript quantification.
 - **Data science and machine learning**: Competent in supervised and unsupervised machine learning techniques (e.g., random forests, SVM, clustering, dimensionality reduction) and deep learning frameworks (e.g., TensorFlow, PyTorch) for predictive modeling and data interpretation.
-- **Mathematical Modeling**: Sytems Biology and Physiological Based Pharmacokinetic (PBPK) modeling with applied Markov Chain Monte Carlo.
 - **Advanced statistical and computational methods**: Proficient in Bayesian inference, survival analysis, mixed-effects modeling, differential expression analysis, dimensionality reduction (PCA, UMAP, t-SNE, SDA), and advanced regularization techniques, enabling complex biological insights from high-dimensional datasets.
+- **Mathematical modeling**: Sytems Biology and Physiological Based Pharmacokinetic (PBPK) modeling with applied Markov Chain Monte Carlo.
 - **Cloud computing and HPC**: Experience with high-performance computing (HPC) environments and cloud platforms such as AWS, Google Cloud Platform (GCP), and Azure, utilizing tools like Docker, Conda, and Slurm for scalable data processing and pipeline deployment.
 - **Programming languages**: Expertise in R, Python, and Bash scripting for data analysis, automation, and pipeline development.
 - **High-throughput data analysis**: Proficient in next-generation sequencing (NGS) and multi-omics data, including RNA-seq, whole-genome sequencing (WGS), whole-exome sequencing (WES), ChIP-seq, ATAC-seq, single-cell, and spatial sequencing.
