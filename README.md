@@ -16,7 +16,7 @@
 | - Grant writing                         | - Translational & clinical trial data analytics    | - PBPK modeling & pharmacokinetics                       |
 
 ## Summary Statement
-I am a computational biologist driven by applied machine learning and AI for translational biomedical research. Broadly, I specialize in immunology, infectious diseases, and reproductive biology. I enjoy leading diverse projects, coding, performing statistical analyses, and converting complex biological data into actionable insights alongside principal investigators and cross-disciplinary teams. I am most valued as an innovative and statistical thinker and methods, and my communication skills in collaborations with internal and external stakeholders.
+I am a computational biologist driven by applied machine learning and AI for translational biomedical research. I am an expert at statistical modeling and advanced data analysis. In medicine, I specialize in immunology, infectious diseases, and reproductive biology as a biologist. I enjoy leading diverse projects, coding, performing statistical analyses, and converting complex biological data into actionable insights alongside principal investigators and cross-disciplinary teams. I am most valued as an innovative and statistical thinker and methods, and my communication skills in collaborations with internal and external stakeholders.
 
 As R. Assistant Professor at OHSU/ONPRC, I deploy computational pipelines, develop interactive data visualization platforms, secure and manage research funding through competitive grants, and lead the strategic development of AI/ML solutions for research. I also develop statistically based  plans, projections, SOPs to manage internal and external functions. 
 
