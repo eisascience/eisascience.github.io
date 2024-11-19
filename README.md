@@ -15,17 +15,18 @@
 | - Stakeholder communication             | - Statistical & mathematical modeling  | - Infectious diseases HIV, MTb, Yellow Fever, Dengue, Zika, CMV, and SARS-CoV-2  |
 | - Grant writing                         | - Translational & clinical trial data analytics    | - PBPK modeling & pharmacokinetics                       |
 
-
 ## Summary Statement
-I am a computational biologist driven by applied machine learning and AI for translational biomedical research. Broadly, I specialize in immunology, infectious diseases, and reproductive biology. I enjoy leading diverse projects, coding, performing statistical analyses, and converting complex biological data into actionable insights alongside principal investigators and cross-disciplinary teams. From a biological perspective, 
+I am a computational biologist driven by applied machine learning and AI for translational biomedical research. Broadly, I specialize in immunology, infectious diseases, and reproductive biology. I enjoy leading diverse projects, coding, performing statistical analyses, and converting complex biological data into actionable insights alongside principal investigators and cross-disciplinary teams. I am most valued as an innovative and statistical thinker and methods, and my communication skills in collaborations with internal and external stakeholders.
 
-As R. Assistant Professor at OHSU/ONPRC, I deploy computational pipelines, develop interactive data visualization platforms, secure and manage research funding through competitive grants, and lead the strategic development of AI/ML solutions for research. My research in this role focuses on integrating high-dimensional multi-omics datasets, performing cross-species analysis, and employing statistical inference and computational omics to support clinical and preclinical initiatives. Furthermore, I actively consult across labs, providing technical training and mentorship to graduate students and guiding their research and career development. 
+As R. Assistant Professor at OHSU/ONPRC, I deploy computational pipelines, develop interactive data visualization platforms, secure and manage research funding through competitive grants, and lead the strategic development of AI/ML solutions for research. I also develop statistically based  plans, projections, SOPs to manage internal and external functions. 
 
-My career has been defined by consistent advancement and a focus on statistical, machine learning, and data analytic methods relevant to translational and clinical research. I have played a pivotal role in designing, implementing, and analyzing extensive research projects, combining wet lab and in silico methodologies to develop hypotheses and transform data into actionable outcomes. My work upholds rigorous quality control across various omics data types to ensure integrity and reproducibility. Through statistical consultations and analyses, I have contributed significantly to clinical study documentation, scientific publications, presentations, grants, and regulatory filings in academic and industry settings.
+My research in this role focuses on integrating high-dimensional multi-omics datasets, performing cross-species analysis, and employing statistical inference and computational omics to support clinical and preclinical initiatives. Furthermore, I actively consult across labs, providing technical training and mentorship to graduate students and guiding their research and career development. 
+
+My career has been defined by consistent advancement and a focus on statistics, machine learning, and advanced data analytics relevant to translational and clinical research. I have played a pivotal role in designing, implementing, and analyzing extensive research projects, combining wet lab and in silico methodologies to develop hypotheses and transform data into actionable outcomes. My work upholds rigorous quality control across various omics data types to ensure integrity and reproducibility. Through statistical consultations and analyses, I have contributed significantly to clinical study documentation, scientific publications, presentations, grants, and regulatory filings in academic and industry settings.
 
 Currently, I am interested in leading and developing teams to create software, pipelines, and testing methodologies tailored for analyzing and translating complex biomedical data, supporting impactful translational research by integrating data types, and applying robust statistical methodologies and computational tools. With the advent of large language models (LLMs), such tasks and aims can be rapidly scaled; thus, my research includes fine-tuning, testing, and deploying specialized LLM for biomedical research. 
 
-### Domains of Research Expertise & Interest
+## Domains of Research Expertise & Interest
 - **Immunology**: Focused on adaptive immunity, emphasizing T cell biology and T cell receptors (TCRs) across human, rhesus, and murine models.
 - **Sex/Gender Biased Immune function**: Investigating the X chromosome and the vast and complex genes it codes, many of which are related to immune functions. Certain human diseases that alter X-chromosome expression, such as Klinefelter's syndrome, are potential models of investigating these genes. 
 - **Reproductive Biology**: Testis biology and genetics of infertility in human, rhesus, and murine models.
@@ -34,15 +35,17 @@ Currently, I am interested in leading and developing teams to create software, p
 - **Large Language Models (LLMs)**: Applications and methodologies for LLMs in biomedical research.
 
 
+
 ## Technical skills
 - **Bioinformatics**: Proficiency with tools like Bowtie, BLAST, BWA, GATK, SAMtools, STAR, and HTSeq for DNA/RNA alignment, variant calling, and transcript quantification.
+- **Data science and machine learning**: Competent in supervised and unsupervised machine learning techniques (e.g., random forests, SVM, clustering, dimensionality reduction) and deep learning frameworks (e.g., TensorFlow, PyTorch) for predictive modeling and data interpretation.
+- **Mathematical Modeling**: Sytems Biology and Physiological Based Pharmacokinetic (PBPK) modeling with applied Markov Chain Monte Carlo.
+- **Advanced statistical and computational methods**: Proficient in Bayesian inference, survival analysis, mixed-effects modeling, differential expression analysis, dimensionality reduction (PCA, UMAP, t-SNE, SDA), and advanced regularization techniques, enabling complex biological insights from high-dimensional datasets.
 - **Cloud computing and HPC**: Experience with high-performance computing (HPC) environments and cloud platforms such as AWS, Google Cloud Platform (GCP), and Azure, utilizing tools like Docker, Conda, and Slurm for scalable data processing and pipeline deployment.
 - **Programming languages**: Expertise in R, Python, and Bash scripting for data analysis, automation, and pipeline development.
 - **High-throughput data analysis**: Proficient in next-generation sequencing (NGS) and multi-omics data, including RNA-seq, whole-genome sequencing (WGS), whole-exome sequencing (WES), ChIP-seq, ATAC-seq, single-cell, and spatial sequencing.
 - **Data visualization**: Skilled in creating publication-quality and interactive data visualizations using ggplot2, Matplotlib, Plotly, and Shiny, along with automated and reproducible reporting in HTML and R Markdown.
-- **Data science and machine learning**: Competent in supervised and unsupervised machine learning techniques (e.g., random forests, SVM, clustering, dimensionality reduction) and deep learning frameworks (e.g., TensorFlow, PyTorch) for predictive modeling and data interpretation.
-- **Mathematical Modeling**: Sytems Biology and Physiological Based Pharmacokinetic (PBPK) modeling with applied Markov Chain Monte Carlo.
-- **Advanced statistical and computational methods**: Proficient in Bayesian inference, survival analysis, mixed-effects modeling, differential expression analysis, dimensionality reduction (PCA, UMAP, t-SNE, SDA), and advanced regularization techniques, enabling complex biological insights from high-dimensional datasets.
+
 
 
 ## Professional Experience
@@ -58,7 +61,6 @@ _Lab of Donald F. Conrad, Ph.D. - Division of Genetics, ONPRC-OHSU_
 - Managed collaborative, multi-institutional projects, coordinating resources and ensuring robust quality control in data integrity and analysis.
 - Collaborated with cross-functional teams, including R&D, IT, engineering, veterinarians, and clinicians.
 
-
 ### 2018 - 2022  
 **Computational Biologist, Molecular Immunopathology - Research Associate**  
 _Lab of Benjamin N. Bimber, Ph.D. - Primate Genetics, ONPRC-OHSU_
@@ -67,7 +69,7 @@ _Lab of Benjamin N. Bimber, Ph.D. - Primate Genetics, ONPRC-OHSU_
 - Designed and implemented pipelines, algorithms, and machine learning models for multi-omics analysis, especially single-cell transcriptomics, to uncover novel genetic markers and disease mechanisms.
 - Delivered comprehensive technical training in computational biology and machine learning to researchers and students, fostering expertise in data analysis, statistical programming, and project-based learning.
 
-### 2022  
+### 2021 - 2022  
 **Biostatistics & Computational Biology Consultant**  
 _Drug Development & Testing for Nonalcoholic Steatohepatitis (NASH) - CytoDyn, USA_
 
