@@ -5,7 +5,7 @@
 
 ## CORE SKILLS
 
-| **Management**                          | **Statistics & Computer Science**            | **Biology**                          |
+| **Management**                          | **Statistics & Computer Science**            | **Biology & Medicine**                          |
 |-----------------------------------------|----------------------------------------------|--------------------------------------|
 | - Project coordination                  | - Machine Learning & AI                      | - Single-cell & spatial OMICs        |
 | - Operational & cross-functional leadership | - Fine-tuning of LLM on specialized domains | - Translational research             |
