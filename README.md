@@ -178,8 +178,11 @@ Contribution: Acquired clinical data from patient charts for ongoing studies and
 + Winter 2014   “Latent Dirichlet Allocation and Applications in Biology”, Bioinformatics Discussion for Students and Postdocs (BioDSP) talk, OHSU.
 
 ## Teaching & Mentorship Experience
-+ Summer 2022 Machine Learning and Single-cell OMICs analysis of with an international (France) master’s level graduate student. ONPRC.
-+ Spring 2019 Bioinformatics & Computational Biology introductory training for a high school student and a master’s level graduate student. ONPRC.
++ Summer 2024 Statistic analysis in biomedicine, Post-doc student, OHSU.
++ Summer 2023 Statistical omics analysis, research associate, OHSU.
++ Summer 2022 Machine Learning and Single-cell OMICs analysis with an international (France) master’s level graduate student. ONPRC.
++ Spring 2019 Bioinformatics & Computational Biology introductory training for an MS-level graduate student. ONPRC.
++ Spring 2019 Bioinformatics & career training for a high school student, ONPRC.
 + Spring 2017	Class TA & Mentored teaching, "Public and social-media engagement and the developing ‘avatar’ of an academic professional" for Research in Bioinformatics and Computational Biology with course professor: Eilis Boudreau M.D./Ph.D.
 + Spring 2016	Class TA and Mentored teaching, "Markov Models, Hidden Markov Models, and Markov Chain Mote Carlo Modeling" for Statistical methods with course professor: Shannon K. McWeeney Ph.D.
 + Spring 2015	Class TA for Statistical Methods with course professor Shannon K. McWeeney Ph.D.
