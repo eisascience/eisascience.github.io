@@ -52,7 +52,7 @@ Currently, I am interested in leading and developing teams to create software, p
 ## Professional Experience
 
 ### 2022 - Present  
-**Research Assistant Professor, Mammalian Reproduction**  
+**Research Assistant Professor, Computational, OMICs, Translational Mammalian Reproduction**  
 _Lab of Donald F. Conrad, Ph.D. - Division of Genetics, ONPRC-OHSU_
 
 - Lead computational research projects to analyze high-dimensional multi-omics data, advancing translational research in testis biology and male infertility.
