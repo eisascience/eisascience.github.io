@@ -51,7 +51,14 @@ Currently, I am interested in leading and developing teams to create software, p
 
 ## Professional Experience
 
-### 2022 - Present  
+### 2025 -   
+**Computation Group Lead, Research Assistant Professor**  
+_Lab of Jacob D. Estes, Ph.D. - Vaccine & Gene Therapy Institute (VGTI), ONPRC-OHSU_
+
+- Spatial highly-multiplexed protein and nucleic acid technologies, CosMX, GeoMX, ...
+
+
+### 2022 - 2024  
 **Research Assistant Professor, Computational, OMICs, Translational Mammalian Reproduction**  
 _Lab of Donald F. Conrad, Ph.D. - Division of Genetics, ONPRC-OHSU_
 
