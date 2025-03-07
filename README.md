@@ -197,9 +197,9 @@ Contribution: Acquired clinical data from patient charts for ongoing studies and
 
 ## Publications by year
 
-+  __Mahyari, Eisa__, et al. "Rhesus Immune Reference Atlas (RIRA)" In review (2024).
++  __Mahyari, Eisa__, et al. "Rhesus Immune Reference Atlas (RIRA)" Accepted Cell Genomics (2025).
 
-+  __Mahyari, Eisa__, et al. "HLA-B27, AS, and AAU in a clinical cohort" In review (2024).
++  __Mahyari, Eisa__, et al. "Divergent B-cell and cytotoxic TNK cell activation signatures in HLA-B27-associated ankylosing spondylitis and acute anterior uveitis" Frontiers (2025). [link]([https://doi.org/10.1038/s41467-022-35661-z](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2025.1546429/full)) 
 
 + Mariya B. Shapiro, Tracy Ordonez, Shilpi Pandey, __Eisa Mahyari__, Kosiso Onwuzu, Jason Reed, Heather Sidener et al. "Immune perturbation following SHIV infection is greater in newborn macaques than in infants." JCI insight (2024).
 
