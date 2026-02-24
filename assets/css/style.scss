@@ -6,7 +6,7 @@
 
 /* Modern typography + layout */
 :root {
-  --maxw: 1280px;
+  --maxw: 1200px; /* wider, but not absurdly wide */
   --text: #111827;
   --muted: #4b5563;
   --border: #e5e7eb;
@@ -23,19 +23,45 @@ html, body {
 
 body {
   font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
-  line-height: 1.5;
-  font-size: 14px;
+  line-height: 1.55;
+  font-size: 15px;
 }
 
 /* Center and widen main container */
 .wrapper {
   max-width: var(--maxw);
-  margin: 16px auto;
+  margin: 12px auto;
   background: var(--bg);
   border: 1px solid var(--border);
   border-radius: 16px;
-  padding: 22px 26px;
+  padding: 20px 26px;
   box-shadow: 0 10px 25px rgba(17, 24, 39, 0.06);
+}
+
+/* --- Critical override: jekyll-theme-minimal uses a left sidebar header + right section.
+   Force single-column full-width content. --- */
+header {
+  float: none !important;
+  position: static !important;
+  width: auto !important;
+  padding-bottom: 12px;
+  padding-right: 0 !important;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 18px;
+}
+
+section {
+  float: none !important;
+  width: auto !important;
+  padding: 0 !important;
+  border: 0 !important;
+  margin: 0 !important;
+}
+
+/* Ensure any theme clearfix/width rules don’t re-constrain content */
+.wrapper > header,
+.wrapper > section {
+  max-width: none !important;
 }
 
 /* Headers */
@@ -44,19 +70,20 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size: 1.75rem;
+  font-size: 1.7rem;
   margin-top: 0;
+  margin-bottom: 0.35rem;
 }
 
 h2 {
   font-size: 1.15rem;
-  margin-top: 1.75rem;
+  margin-top: 1.6rem;
   padding-top: 0.75rem;
   border-top: 1px solid var(--border);
 }
 
 h3 {
-  font-size: 1.05rem;
+  font-size: 1.0rem;
   margin-top: 1.1rem;
 }
 
@@ -82,7 +109,7 @@ table {
 }
 
 th, td {
-  padding: 12px 12px;
+  padding: 10px 12px;
   vertical-align: top;
   border-bottom: 1px solid var(--border);
 }
@@ -116,19 +143,16 @@ blockquote {
   padding-left: 14px;
 }
 
-/* Make the header area less “old blog” */
-header {
-  padding-bottom: 12px;
-  border-bottom: 1px solid var(--border);
-  margin-bottom: 18px;
-}
-
 /* Mobile */
 @media (max-width: 720px) {
+  :root {
+    --maxw: 100%;
+  }
   .wrapper {
     margin: 10px;
-    padding: 18px;
+    padding: 16px 16px;
     border-radius: 14px;
   }
-  h1 { font-size: 1.6rem; }
+  h1 { font-size: 1.5rem; }
+  h2 { font-size: 1.1rem; }
 }
