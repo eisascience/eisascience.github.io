@@ -29,8 +29,11 @@ body {
 
 /* Center and widen main container */
 .wrapper {
+  /* Use almost the full viewport width, with comfortable side gutters */
   max-width: var(--maxw);
+  width: min(var(--maxw), calc(100% - 32px));
   margin: 12px auto;
+
   background: var(--bg);
   border: 1px solid var(--border);
   border-radius: 16px;
@@ -38,21 +41,21 @@ body {
   box-shadow: 0 10px 25px rgba(17, 24, 39, 0.06);
 }
 
+
 /* --- Critical override: jekyll-theme-minimal uses a left sidebar header + right section.
    Force single-column full-width content. --- */
 header {
   float: none !important;
   position: static !important;
   width: auto !important;
-  padding-bottom: 12px;
   padding-right: 0 !important;
-  border-bottom: 1px solid var(--border);
-  margin-bottom: 18px;
+  margin-bottom: 18px !important;
 }
 
 section {
   float: none !important;
-  width: auto !important;
+  width: auto !important;     /* removes the narrow fixed width */
+  max-width: none !important; /* prevents re-constraining */
   padding: 0 !important;
   border: 0 !important;
   margin: 0 !important;
