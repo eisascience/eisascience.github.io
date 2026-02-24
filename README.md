@@ -6,14 +6,17 @@
 ## CORE SKILLS
 
 | **Management**                          | **Statistics & Computer Science**                                           | **Biology & Medicine**                          |
-|-----------------------------------------|-----------------------------------------------------------------------------|--------------------------------------|
-| - Project coordination                  | - Machine learning and artificial intelligence                              | - Single-cell and spatial omics      |
-| - Operational and cross-functional leadership | - Large language model adaptation and evaluation (fine-tuning, benchmarking) | - Translational research             |
-| - Multi-disciplinary collaboration      | - Software engineering                                                      | - Reproduction and infertility       |
-| - Data-driven strategic planning and consultation | - Statistical and mathematical modeling                                 | - Immunology, autoimmunity, and sex-biased immune function |
-| - Budgeting and resource allocation     | - Biostatistics                                                             | - Hormonal regulation of immune function |
-| - Stakeholder communication             | - High performance computing and cloud (Slurm workload manager, Amazon Web Services, Google Cloud Platform) | - Infectious diseases (HIV, Mycobacterium tuberculosis, yellow fever, dengue, Zika, cytomegalovirus, SARS-CoV-2) |
-| - Grant writing                         | - Translational and clinical trial data analytics                            | - Physiologically based pharmacokinetic modeling and pharmacokinetics |
+|-----------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------|
+| - Project coordination                  | - Statistical modeling, machine learning, and artificial intelligence       | - Immunology, autoimmunity, and sex-biased immune function |
+| - Operational and cross-functional leadership | - Large language model adaptation and evaluation (fine-tuning, benchmarking) | - Reproduction, fertility, and hormonal regulation |
+| - Multi-disciplinary collaboration      | - Image-based (histology, radiology) analysis and artificial intelligence development | - Infectious diseases (HIV, Mycobacterium tuberculosis, yellow fever, dengue, Zika, cytomegalovirus, SARS-CoV-2) |
+| - Data-driven strategic planning and consultation | - Software engineering (reproducible pipelines, testing, packaging) | - Single-cell and spatial omics |
+| - Budgeting and resource allocation     | - High performance computing and cloud (Slurm, Amazon Web Services, Google Cloud) | - Vaccines and immunotherapeutics: response profiling and correlates of protection |
+| - Stakeholder communication             | - Translational and clinical trial data analytics (endpoints, biomarkers, real-world data) | - Host–pathogen interactions and mucosal immunity |
+| - Grant writing (academia; Small Business Innovation Research and Small Business Technology Transfer) | - Physiologically based pharmacokinetic modeling and pharmacokinetics | - Biomarkers and assay development (flow cytometry, serology, multi-omics integration) |
+| - Mentorship and supervision (students, junior scientists, analysts) | - Causal inference and study design (power analysis, confounding control) | - Inflammation biology and immune signaling networks |
+| - Research-to-industry translation (requirements, milestones, deliverables) | - Model interpretability and validation (calibration, robustness, external validation) | - Clinical immunology and human cohort studies (study design, sample handling constraints) |
+
 
 ## Summary Statement
 I am a computational biologist and technical leader focused on applied machine learning (ML) and artificial intelligence (AI) for translational biomedical research. Currently, I lead the ML/AI and spatial omics projects at the Vaccine and Gene Therapy Institute (VGTI), directing technical strategy, building reproducible analysis systems, and supervising junior computational scientists.
