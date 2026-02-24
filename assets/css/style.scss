@@ -1,0 +1,134 @@
+---
+---
+
+/* Import the theme’s base CSS first */
+@import "{{ site.theme }}";
+
+/* Modern typography + layout */
+:root {
+  --maxw: 920px;
+  --text: #111827;
+  --muted: #4b5563;
+  --border: #e5e7eb;
+  --bg: #ffffff;
+  --soft: #f9fafb;
+  --link: #1f6feb;
+  --linkHover: #0b5bd3;
+}
+
+html, body {
+  background: var(--soft);
+  color: var(--text);
+}
+
+body {
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+  line-height: 1.6;
+  font-size: 16px;
+}
+
+/* Center and widen main container */
+.wrapper {
+  max-width: var(--maxw);
+  margin: 32px auto;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 28px 28px;
+  box-shadow: 0 10px 25px rgba(17, 24, 39, 0.06);
+}
+
+/* Headers */
+h1, h2, h3 {
+  letter-spacing: -0.02em;
+}
+
+h1 {
+  font-size: 2.0rem;
+  margin-top: 0;
+}
+
+h2 {
+  font-size: 1.25rem;
+  margin-top: 1.75rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid var(--border);
+}
+
+h3 {
+  font-size: 1.05rem;
+  margin-top: 1.1rem;
+}
+
+/* Links */
+a {
+  color: var(--link);
+  text-decoration: none;
+}
+a:hover {
+  color: var(--linkHover);
+  text-decoration: underline;
+}
+
+/* Improve tables (your core skills table) */
+table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  margin: 14px 0 22px;
+  overflow: hidden;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+}
+
+th, td {
+  padding: 12px 12px;
+  vertical-align: top;
+  border-bottom: 1px solid var(--border);
+}
+
+th {
+  background: #f3f4f6;
+  font-weight: 600;
+}
+
+tr:last-child td {
+  border-bottom: none;
+}
+
+/* Lists */
+ul {
+  margin-top: 8px;
+}
+
+/* Inline code blocks */
+code {
+  background: #f3f4f6;
+  padding: 0.15rem 0.35rem;
+  border-radius: 6px;
+  font-size: 0.95em;
+}
+
+/* Clean up blockquotes */
+blockquote {
+  border-left: 3px solid var(--border);
+  color: var(--muted);
+  padding-left: 14px;
+}
+
+/* Make the header area less “old blog” */
+header {
+  padding-bottom: 12px;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 18px;
+}
+
+/* Mobile */
+@media (max-width: 720px) {
+  .wrapper {
+    margin: 10px;
+    padding: 18px;
+    border-radius: 14px;
+  }
+  h1 { font-size: 1.6rem; }
+}
