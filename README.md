@@ -26,25 +26,29 @@ My work spans statistical inference, high-dimensional multi-omics integration (s
 I am most effective at bridging science and engineering: setting rigorous evaluation standards, creating scalable workflows, communicating results to cross-disciplinary teams, and driving adoption of computational products in active research programs.
 
 ## Domains of Research Expertise & Interest
-- **Immunology**: Focused on adaptive immunity, emphasizing T cell biology and T cell receptors (TCRs) across human, rhesus, and murine models.
-- **Sex/Gender Biased Immune function**: Investigating the X chromosome and the vast and complex genes it codes, many of which are related to immune functions. Certain human diseases that alter X-chromosome expression, such as Klinefelter's syndrome, are potential models of investigating these genes. 
-- **Reproductive Biology**: Testis biology and genetics of infertility in human, rhesus, and murine models.
-- **Infectious Diseases**: Research in HIV/SIV, SARS-CoV-2, ZIKA, Yellow Fever, Dengue, and Mycobacterium tuberculosis.
-- **Computational Science**: Statistical inference and machine learning, specializing in matrix/tensor decomposition and transfer learning.
-- **Oncology**: Identification of immune checkpoints, regulatory molecules, and biomarkers in diagnosis, prophylaxis, and oncological treatments.
-- **Large Language Models (LLMs)**: Applications and methodologies for LLMs in biomedical research.
+- **Computational Science**: Statistical inference and machine learning, with emphasis on matrix and tensor decomposition, transfer learning, and causal and study-design aware modeling.
+- **Foundation Models**: Development, adaptation, and evaluation of foundation models for biomedical data, including fine-tuning, benchmarking, robustness testing, and domain adaptation.
+- **Large Language Models (LLMs)**: Retrieval-augmented generation, instruction tuning, and evaluation for biomedical research workflows (literature synthesis, protocol assistance, phenotype extraction, and structured knowledge representation).
+- **Microscopy & Radiology Image Analysis**: Quantitative image processing and computer vision for histology and radiology, including segmentation, feature extraction, representation learning, and multi-modal integration with omics and clinical data.
+- **Immunology**: Adaptive immunity with a focus on T cell biology and T cell receptors (TCRs), spanning human, rhesus, and murine models.
+- **Sex and Gender Biased Immune Function**: Mechanistic investigation of X-chromosome regulation and immune-relevant gene dosage effects; leveraging conditions that alter X-chromosome expression (for example, Klinefelter syndrome) as models to study immune phenotypes.
+- **Reproductive Biology**: Testis biology and the genetics of infertility across human, rhesus, and murine systems; integration of endocrine and immune regulation where relevant.
+- **Infectious Diseases**: Host–pathogen interactions and immune responses in HIV and simian immunodeficiency virus (SIV), SARS-CoV-2, Zika, yellow fever, dengue, and Mycobacterium tuberculosis.
+- **Oncology**: Immune-oncology biomarkers and mechanisms, including immune checkpoints and regulatory pathways relevant to diagnosis, prophylaxis, and therapeutic response.
 
 
 ## Technical skills
-- **Bioinformatics**: Proficiency with tools like Bowtie, BLAST, BWA, GATK, SAMtools, STAR, and HTSeq for DNA/RNA alignment, variant calling, and transcript quantification.
 - **Data science and machine learning**: Competent in supervised and unsupervised machine learning techniques (e.g., random forests, SVM, clustering, dimensionality reduction) and deep learning frameworks (e.g., TensorFlow, PyTorch) for predictive modeling and data interpretation.
+- **Bioinformatics**: Proficient in next-generation sequencing (NGS) and multi-omics data, including RNA-seq, whole-genome sequencing (WGS), whole-exome sequencing (WES), ChIP-seq, ATAC-seq, single-cell, and spatial sequencing. Using tools such as Bowtie, BLAST, BWA, GATK, SAMtools, STAR, and HTSeq for DNA/RNA alignment, variant calling, and transcript quantification.
+- **Single-cell, spatial, and imaging ecosystems**: toolchains for single-cell and spatial analysis (e.g., Seurat/Scanpy) and biomedical imaging (e.g., QuPath/Fiji, DICOM handling, MONAI) where applicable.
 - **Advanced statistical and computational methods**: Proficient in Bayesian inference, survival analysis, mixed-effects modeling, differential expression analysis, dimensionality reduction (PCA, UMAP, t-SNE, SDA), and advanced regularization techniques, enabling complex biological insights from high-dimensional datasets.
 - **Mathematical modeling**: Systems Biology and Physiological Based Pharmacokinetic (PBPK) modeling with applied Markov Chain Monte Carlo.
 - **Cloud computing and HPC**: Experience with high-performance computing (HPC) environments and cloud platforms such as AWS, Google Cloud Platform (GCP), and Azure, utilizing tools like Docker, Conda, and Slurm for scalable data processing and pipeline deployment.
 - **Programming languages**: Expertise in R, Python, and Bash scripting for data analysis, automation, and pipeline development.
-- **High-throughput data analysis**: Proficient in next-generation sequencing (NGS) and multi-omics data, including RNA-seq, whole-genome sequencing (WGS), whole-exome sequencing (WES), ChIP-seq, ATAC-seq, single-cell, and spatial sequencing.
+- **Software engineering and reproducible workflows**: Git-based development, testing, documentation, and workflow orchestration (e.g., Snakemake/Nextflow), with continuous integration and continuous delivery (CI/CD) and containerized deployment practices.
+- **Data engineering and databases**: Structured Query Language (SQL) data access, Extract Transform Load (ETL) pipeline design, and application programming interface (API) integration for scalable data products.
+- **Model validation and deployment**: rigorous evaluation (calibration, external validation), interpretability, uncertainty quantification, and monitoring for production-oriented modeling.
 - **Data visualization**: Skilled in creating publication-quality and interactive data visualizations using ggplot2, Matplotlib, Plotly, and Shiny, along with automated and reproducible reporting in HTML and R Markdown.
-
 
 
 ## Professional Experience
