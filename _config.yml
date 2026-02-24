@@ -1,1 +1,9 @@
 theme: jekyll-theme-minimal
+title: Eisa Mahyari, Ph.D.
+description: Computational Biology | Machine Learning | Spatial Omics | Translational Research
+
+# Optional: show downloads button off (cleaner)
+show_downloads: false
+
+# Optional: add a logo file if you want (put it in /assets/img/)
+# logo: /assets/img/headshot.png
