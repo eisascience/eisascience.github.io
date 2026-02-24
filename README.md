@@ -1,30 +1,26 @@
 # Eisa Mahyari, Ph.D.
 
 ## Contact 
-[Google Scholar Citations](https://scholar.google.com/citations?user=vp6qss8AAAAJ&hl=en) | [Research Gate](https://www.researchgate.net/profile/Eisa_Mahyari) | [ORCID](https://orcid.org/0000-0002-5613-3131) | [GitHub](https://eisascience.github.io/) | [Twitter](https://twitter.com/eisamahyari) | [Email](mailto:eisamahyari@gmail.com)
+[Google Scholar Citations](https://scholar.google.com/citations?user=vp6qss8AAAAJ&hl=en) | [Research Gate](https://www.researchgate.net/profile/Eisa_Mahyari) | [ORCID](https://orcid.org/0000-0002-5613-3131) | [Github] (https://github.com/eisascience) | [Live CV](https://eisascience.github.io/) | [Twitter](https://twitter.com/eisamahyari) | [Email](mailto:eisamahyari@gmail.com)
 
 ## CORE SKILLS
 
-| **Management**                          | **Statistics & Computer Science**            | **Biology & Medicine**                          |
-|-----------------------------------------|----------------------------------------------|--------------------------------------|
-| - Project coordination                  | - Machine Learning & AI                      | - Single-cell & spatial OMICs        |
-| - Operational & cross-functional leadership | - Fine-tuning of LLM on specialized domains | - Translational research             |
-| - Multi-disciplinary collaboration      | - Software engineering                       | - Reproduction & infertility         |
-| - Data-driven strategic planning & consultation |  - Statistical & mathematical modeling  | - Immunology, autoimmunity, & Gender-bias of immune function   |
-| - Budgeting & resource allocation       | - Biostatistics                                 | - Hormonal regulation of immune function |
-| - Stakeholder communication             | - Cloud computing (Slurm, AWS, Google) | - Infectious diseases HIV, MTb, Yellow Fever, Dengue, Zika, CMV, and SARS-CoV-2  |
-| - Grant writing                         | - Translational & clinical trial data analytics    | - PBPK modeling & pharmacokinetics                       |
+| **Management**                          | **Statistics & Computer Science**                                           | **Biology & Medicine**                          |
+|-----------------------------------------|-----------------------------------------------------------------------------|--------------------------------------|
+| - Project coordination                  | - Machine learning and artificial intelligence                              | - Single-cell and spatial omics      |
+| - Operational and cross-functional leadership | - Large language model adaptation and evaluation (fine-tuning, benchmarking) | - Translational research             |
+| - Multi-disciplinary collaboration      | - Software engineering                                                      | - Reproduction and infertility       |
+| - Data-driven strategic planning and consultation | - Statistical and mathematical modeling                                 | - Immunology, autoimmunity, and sex-biased immune function |
+| - Budgeting and resource allocation     | - Biostatistics                                                             | - Hormonal regulation of immune function |
+| - Stakeholder communication             | - High performance computing and cloud (Slurm workload manager, Amazon Web Services, Google Cloud Platform) | - Infectious diseases (HIV, Mycobacterium tuberculosis, yellow fever, dengue, Zika, cytomegalovirus, SARS-CoV-2) |
+| - Grant writing                         | - Translational and clinical trial data analytics                            | - Physiologically based pharmacokinetic modeling and pharmacokinetics |
 
 ## Summary Statement
-I am a computational biologist driven by applied machine learning and AI for translational biomedical research. I am an expert at statistical modeling and advanced data analysis. In medicine, I specialize in immunology, infectious diseases, and reproductive biology as a biologist. I enjoy leading diverse projects, coding, performing statistical analyses, and converting complex biological data into actionable insights alongside principal investigators and cross-disciplinary teams. I am most valued as an innovative and statistical thinker and methods, and my communication skills in collaborations with internal and external stakeholders.
+I am a computational biologist and technical leader focused on applied machine learning (ML) and artificial intelligence (AI) for translational biomedical research. Currently, I lead the ML/AI and spatial omics projects at the Vaccine and Gene Therapy Institute (VGTI), directing technical strategy, building reproducible analysis systems, and supervising junior computational scientists.
 
-As R. Assistant Professor at OHSU/ONPRC, I deploy computational pipelines, develop interactive data visualization platforms, secure and manage research funding through competitive grants, and lead the strategic development of AI/ML solutions for research. I also develop statistically based  plans, projections, SOPs to manage internal and external functions. 
+My work spans statistical inference, high-dimensional multi-omics integration (single-cell and spatial transcriptomics and proteomics), and development of deployable analytical tools (pipelines, interactive visualizations, and research software). In biology and medicine, I specialize in immunology, infectious diseases, and reproductive biology, translating complex experimental questions into validated computational methods and actionable biological insights.
 
-My research in this role focuses on integrating high-dimensional multi-omics datasets, performing cross-species analysis, and employing statistical inference and computational omics to support clinical and preclinical initiatives. Furthermore, I actively consult across labs, providing technical training and mentorship to graduate students and guiding their research and career development. 
-
-My career has been defined by consistent advancement and a focus on statistics, machine learning, and advanced data analytics relevant to translational and clinical research. I have played a pivotal role in designing, implementing, and analyzing extensive research projects, combining wet lab and in silico methodologies to develop hypotheses and transform data into actionable outcomes. My work upholds rigorous quality control across various omics data types to ensure integrity and reproducibility. Through statistical consultations and analyses, I have contributed significantly to clinical study documentation, scientific publications, presentations, grants, and regulatory filings in academic and industry settings.
-
-Currently, I am interested in leading and developing teams to create software, pipelines, and testing methodologies tailored for analyzing and translating complex biomedical data, supporting impactful translational research by integrating data types, and applying robust statistical methodologies and computational tools. With the advent of large language models (LLMs), such tasks and aims can be rapidly scaled; thus, my research includes fine-tuning, testing, and deploying specialized LLM for biomedical research. 
+I am most effective at bridging science and engineering: setting rigorous evaluation standards, creating scalable workflows, communicating results to cross-disciplinary teams, and driving adoption of computational products in active research programs.
 
 ## Domains of Research Expertise & Interest
 - **Immunology**: Focused on adaptive immunity, emphasizing T cell biology and T cell receptors (TCRs) across human, rhesus, and murine models.
@@ -34,7 +30,6 @@ Currently, I am interested in leading and developing teams to create software, p
 - **Computational Science**: Statistical inference and machine learning, specializing in matrix/tensor decomposition and transfer learning.
 - **Oncology**: Identification of immune checkpoints, regulatory molecules, and biomarkers in diagnosis, prophylaxis, and oncological treatments.
 - **Large Language Models (LLMs)**: Applications and methodologies for LLMs in biomedical research.
-
 
 
 ## Technical skills
@@ -51,11 +46,16 @@ Currently, I am interested in leading and developing teams to create software, p
 
 ## Professional Experience
 
-### 2025 -   
-**Computation Group Lead, Research Assistant Professor**  
-_Lab of Jacob D. Estes, Ph.D. - Vaccine & Gene Therapy Institute (VGTI), ONPRC-OHSU_
+### 2024 - Present
+**Lead Computational Biologist, AI & Spatial Omics (Research Assistant Professor)**
+_Lab of Jacob D. Estes, Ph.D. — Vaccine & Gene Therapy Institute (VGTI), Oregon National Primate Research Center (ONPRC), Oregon Health & Science University (OHSU)_
 
-- Spatial highly-multiplexed protein and nucleic acid technologies, CosMX, GeoMX, ...
+- Lead the lab’s ML/AI and spatial omics program, setting technical direction, research roadmap, and standards for reproducible analysis.
+- Manage and mentor junior computational scientists through project planning, technical guidance, and code review.
+- Develop machine learning models and statistical frameworks for spatial transcriptomics and highly multiplexed imaging and sequencing assays.
+- Build and maintain end-to-end pipelines (quality control, integration, modeling, visualization, and reporting) for large-scale single-cell and spatial omics datasets.
+- Deliver internal tools and interactive dashboards to accelerate biological interpretation and decision-making for ongoing studies.
+- Partner with experimental scientists to define success metrics, validate findings, and drive adoption of computational products in active research programs.
 
 
 ### 2022 - 2024  
@@ -199,7 +199,7 @@ Contribution: Acquired clinical data from patient charts for ongoing studies and
 
 +  __Mahyari, Eisa__, et al. "Rhesus Immune Reference Atlas (RIRA)" Accepted Cell Genomics (2025).
 
-+  __Mahyari, Eisa__, et al. "Divergent B-cell and cytotoxic TNK cell activation signatures in HLA-B27-associated ankylosing spondylitis and acute anterior uveitis" Frontiers (2025). [link]([https://doi.org/10.1038/s41467-022-35661-z](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2025.1546429/full)) 
++  __Mahyari, Eisa__, et al. "Divergent B-cell and cytotoxic TNK cell activation signatures in HLA-B27-associated ankylosing spondylitis and acute anterior uveitis." Frontiers in Immunology (2025). [link](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2025.1546429/full)
 
 + Mariya B. Shapiro, Tracy Ordonez, Shilpi Pandey, __Eisa Mahyari__, Kosiso Onwuzu, Jason Reed, Heather Sidener et al. "Immune perturbation following SHIV infection is greater in newborn macaques than in infants." JCI insight (2024).
 
