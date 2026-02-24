@@ -29,15 +29,18 @@ body {
 
 /* Center and widen main container */
 .wrapper {
-  /* Use almost the full viewport width, with comfortable side gutters */
-  max-width: var(--maxw);
-  width: min(var(--maxw), calc(100% - 32px));
-  margin: 12px auto;
+  /* Use almost the whole viewport width */
+  width: calc(100vw - 48px);
+
+  /* Cap it so it doesn’t become unreadable on ultra-wide screens */
+  max-width: 1600px;
+
+  margin: 16px auto;
 
   background: var(--bg);
   border: 1px solid var(--border);
   border-radius: 16px;
-  padding: 20px 26px;
+  padding: 22px 30px;
   box-shadow: 0 10px 25px rgba(17, 24, 39, 0.06);
 }
 
