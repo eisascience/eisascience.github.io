@@ -1,9 +1,6 @@
 ---
 ---
 
-/* Import the theme’s base CSS first */
-@import "{{ site.theme }}";
-
 /* Modern typography + layout */
 :root {
   --maxw: 1200px; /* wider, but not absurdly wide */
@@ -22,7 +19,7 @@ html, body {
 }
 
 body {
-  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+  font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   line-height: 1.55;
   font-size: 15px;
 }
@@ -44,31 +41,6 @@ body {
   box-shadow: 0 10px 25px rgba(17, 24, 39, 0.06);
 }
 
-
-/* --- Critical override: jekyll-theme-minimal uses a left sidebar header + right section.
-   Force single-column full-width content. --- */
-header {
-  float: none !important;
-  position: static !important;
-  width: auto !important;
-  padding-right: 0 !important;
-  margin-bottom: 18px !important;
-}
-
-section {
-  float: none !important;
-  width: auto !important;     /* removes the narrow fixed width */
-  max-width: none !important; /* prevents re-constraining */
-  padding: 0 !important;
-  border: 0 !important;
-  margin: 0 !important;
-}
-
-/* Ensure any theme clearfix/width rules don’t re-constrain content */
-.wrapper > header,
-.wrapper > section {
-  max-width: none !important;
-}
 
 /* Headers */
 h1, h2, h3 {

@@ -1,8 +1,2 @@
-
-remote_theme: "mmistakes/minimal-mistakes"
-plugins:
-  - jekyll-include-cache
-
-# Optional defaults
-minimal_mistakes_skin: "air"  # "default", "air", "contrast", etc.
+title: "Eisa Mahyari, Ph.D."
 markdown: kramdown
