@@ -6,7 +6,7 @@
 
 /* Modern typography + layout */
 :root {
-  --maxw: 920px;
+  --maxw: 1280px;
   --text: #111827;
   --muted: #4b5563;
   --border: #e5e7eb;
@@ -23,18 +23,18 @@ html, body {
 
 body {
   font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
-  line-height: 1.6;
-  font-size: 16px;
+  line-height: 1.5;
+  font-size: 14px;
 }
 
 /* Center and widen main container */
 .wrapper {
   max-width: var(--maxw);
-  margin: 32px auto;
+  margin: 16px auto;
   background: var(--bg);
   border: 1px solid var(--border);
   border-radius: 16px;
-  padding: 28px 28px;
+  padding: 22px 26px;
   box-shadow: 0 10px 25px rgba(17, 24, 39, 0.06);
 }
 
@@ -44,12 +44,12 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size: 2.0rem;
+  font-size: 1.75rem;
   margin-top: 0;
 }
 
 h2 {
-  font-size: 1.25rem;
+  font-size: 1.15rem;
   margin-top: 1.75rem;
   padding-top: 0.75rem;
   border-top: 1px solid var(--border);
